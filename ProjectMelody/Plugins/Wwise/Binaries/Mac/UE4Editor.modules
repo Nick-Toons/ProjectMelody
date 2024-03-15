@@ -1,0 +1,22 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"AkAudio": "UE4Editor-AkAudio.dylib",
+		"AkAudioMixer": "UE4Editor-AkAudioMixer.dylib",
+		"AudiokineticTools": "UE4Editor-AudiokineticTools.dylib",
+		"Wwise": "UE4Editor-Wwise.dylib",
+		"WwiseConcurrency": "UE4Editor-WwiseConcurrency.dylib",
+		"WwiseEngineUtils": "UE4Editor-WwiseEngineUtils.dylib",
+		"WwiseFileHandler": "UE4Editor-WwiseFileHandler.dylib",
+		"WwiseObjectUtils": "UE4Editor-WwiseObjectUtils.dylib",
+		"WwiseProcessing": "UE4Editor-WwiseProcessing.dylib",
+		"WwiseProjectDatabase": "UE4Editor-WwiseProjectDatabase.dylib",
+		"WwiseReconcile": "UE4Editor-WwiseReconcile.dylib",
+		"WwiseResourceCooker": "UE4Editor-WwiseResourceCooker.dylib",
+		"WwiseResourceLoader": "UE4Editor-WwiseResourceLoader.dylib",
+		"WwiseSimpleExternalSource": "UE4Editor-WwiseSimpleExternalSource.dylib",
+		"WwiseSoundEngine": "UE4Editor-WwiseSoundEngine.dylib",
+		"WwiseUtils": "UE4Editor-WwiseUtils.dylib"
+	}
+}

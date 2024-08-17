@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProjectMelody",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "NiagaraUIRenderer",
@@ -31,6 +38,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Wwise",
+			"Enabled": false
 		}
 	]
 }

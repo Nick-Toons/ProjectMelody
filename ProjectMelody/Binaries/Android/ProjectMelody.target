@@ -5,7 +5,7 @@
 	"TargetType": "Game",
 	"Architecture": "",
 	"Project": "../../ProjectMelody.uproject",
-	"Launch": "$(ProjectDir)/Binaries/Android/ProjectMelody-armv7.so",
+	"Launch": "$(ProjectDir)/Binaries/Android/ProjectMelody-arm64.so",
 	"Version": 
 	{
 		"MajorVersion": 4,
@@ -20,7 +20,7 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Android/ProjectMelody-armv7.so",
+			"Path": "$(ProjectDir)/Binaries/Android/ProjectMelody-arm64.so",
 			"Type": "Executable"
 		}
 	],

@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Save Files
 ProjectMelody/ProjectMelody/Saved
+
+ProjectMelody/Binaries/
+
+ProjectMelody/Build/

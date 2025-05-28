@@ -1,997 +1,997 @@
 RowName,InstrumentName,InstrumentTypeCategory,UpgradeName,Cost
-1,Drums1,1,Kick it,4000.00
-2,Drums2,2,temp2,6500.00
-3,Drums3,3,temp3,8500.00
-4,Guitar1,4,temp4,4000.00
-5,Guitar2,5,temp5,6500.00
-6,Guitar3,6,temp6,8500.00
-7,Bass1,7,temp7,4000.00
-8,Bass2,8,temp8,6500.00
-9,Bass3,9,temp9,8500.00
-10,Wild1,10,temp10,4000.00
-11,Wild2,11,temp11,6500.00
-12,Wild3,12,temp12,8500.00
-13,Drums1,1,Kick it,4800.00
-14,Drums2,2,temp2,7800.00
-15,Drums3,3,temp3,10200.00
-16,Guitar1,4,temp4,4800.00
-17,Guitar2,5,temp5,7800.00
-18,Guitar3,6,temp6,10200.00
-19,Bass1,7,temp7,4800.00
-20,Bass2,8,temp8,7800.00
-21,Bass3,9,temp9,10200.00
-22,Wild1,10,temp10,4800.00
-23,Wild2,11,temp11,7800.00
-24,Wild3,12,temp12,10200.00
-25,Drums1,1,Kick it,5760.00
-26,Drums2,2,temp2,9360.00
-27,Drums3,3,temp3,12240.00
-28,Guitar1,4,temp4,5760.00
-29,Guitar2,5,temp5,9360.00
-30,Guitar3,6,temp6,12240.00
-31,Bass1,7,temp7,5760.00
-32,Bass2,8,temp8,9360.00
-33,Bass3,9,temp9,12240.00
-34,Wild1,10,temp10,5760.00
-35,Wild2,11,temp11,9360.00
-36,Wild3,12,temp12,12240.00
-37,Drums1,1,Kick it,6912.00
-38,Drums2,2,temp2,11232.00
-39,Drums3,3,temp3,14688.00
-40,Guitar1,4,temp4,6912.00
-41,Guitar2,5,temp5,11232.00
-42,Guitar3,6,temp6,14688.00
-43,Bass1,7,temp7,6912.00
-44,Bass2,8,temp8,11232.00
-45,Bass3,9,temp9,14688.00
-46,Wild1,10,temp10,6912.00
-47,Wild2,11,temp11,11232.00
-48,Wild3,12,temp12,14688.00
-49,Drums1,1,Kick it,8294.00
-50,Drums2,2,temp2,13478.00
-51,Drums3,3,temp3,17626.00
-52,Guitar1,4,temp4,8294.00
-53,Guitar2,5,temp5,13478.00
-54,Guitar3,6,temp6,17626.00
-55,Bass1,7,temp7,8294.00
-56,Bass2,8,temp8,13478.00
-57,Bass3,9,temp9,17626.00
-58,Wild1,10,temp10,8294.00
-59,Wild2,11,temp11,13478.00
-60,Wild3,12,temp12,17626.00
-61,Drums1,1,Kick it,9953.00
-62,Drums2,2,temp2,16174.00
-63,Drums3,3,temp3,21151.00
-64,Guitar1,4,temp4,9953.00
-65,Guitar2,5,temp5,16174.00
-66,Guitar3,6,temp6,21151.00
-67,Bass1,7,temp7,9953.00
-68,Bass2,8,temp8,16174.00
-69,Bass3,9,temp9,21151.00
-70,Wild1,10,temp10,9953.00
-71,Wild2,11,temp11,16174.00
-72,Wild3,12,temp12,21151.00
-73,Drums1,1,Kick it,11944.00
-74,Drums2,2,temp2,19409.00
-75,Drums3,3,temp3,25381.00
-76,Guitar1,4,temp4,11944.00
-77,Guitar2,5,temp5,19409.00
-78,Guitar3,6,temp6,25381.00
-79,Bass1,7,temp7,11944.00
-80,Bass2,8,temp8,19409.00
-81,Bass3,9,temp9,25381.00
-82,Wild1,10,temp10,11944.00
-83,Wild2,11,temp11,19409.00
-84,Wild3,12,temp12,25381.00
-85,Drums1,1,Kick it,14333.00
-86,Drums2,2,temp2,23291.00
-87,Drums3,3,temp3,30457.00
-88,Guitar1,4,temp4,14333.00
-89,Guitar2,5,temp5,23291.00
-90,Guitar3,6,temp6,30457.00
-91,Bass1,7,temp7,14333.00
-92,Bass2,8,temp8,23291.00
-93,Bass3,9,temp9,30457.00
-94,Wild1,10,temp10,14333.00
-95,Wild2,11,temp11,23291.00
-96,Wild3,12,temp12,30457.00
-97,Drums1,1,Kick it,17200.00
-98,Drums2,2,temp2,27949.00
-99,Drums3,3,temp3,36548.00
-100,Guitar1,4,temp4,17200.00
-101,Guitar2,5,temp5,27949.00
-102,Guitar3,6,temp6,36548.00
-103,Bass1,7,temp7,17200.00
-104,Bass2,8,temp8,27949.00
-105,Bass3,9,temp9,36548.00
-106,Wild1,10,temp10,17200.00
-107,Wild2,11,temp11,27949.00
-108,Wild3,12,temp12,36548.00
-109,Drums1,1,Kick it,20640.00
-110,Drums2,2,temp2,33539.00
-111,Drums3,3,temp3,43858.00
-112,Guitar1,4,temp4,20640.00
-113,Guitar2,5,temp5,33539.00
-114,Guitar3,6,temp6,43858.00
-115,Bass1,7,temp7,20640.00
-116,Bass2,8,temp8,33539.00
-117,Bass3,9,temp9,43858.00
-118,Wild1,10,temp10,20640.00
-119,Wild2,11,temp11,33539.00
-120,Wild3,12,temp12,43858.00
-121,Drums1,1,Kick it,24768.00
-122,Drums2,2,temp2,40247.00
-123,Drums3,3,temp3,52630.00
-124,Guitar1,4,temp4,24768.00
-125,Guitar2,5,temp5,40247.00
-126,Guitar3,6,temp6,52630.00
-127,Bass1,7,temp7,24768.00
-128,Bass2,8,temp8,40247.00
-129,Bass3,9,temp9,52630.00
-130,Wild1,10,temp10,24768.00
-131,Wild2,11,temp11,40247.00
-132,Wild3,12,temp12,52630.00
-133,Drums1,1,Kick it,29722.00
-134,Drums2,2,temp2,48296.00
-135,Drums3,3,temp3,63156.00
-136,Guitar1,4,temp4,29722.00
-137,Guitar2,5,temp5,48296.00
-138,Guitar3,6,temp6,63156.00
-139,Bass1,7,temp7,29722.00
-140,Bass2,8,temp8,48296.00
-141,Bass3,9,temp9,63156.00
-142,Wild1,10,temp10,29722.00
-143,Wild2,11,temp11,48296.00
-144,Wild3,12,temp12,63156.00
-145,Drums1,1,Kick it,35666.00
-146,Drums2,2,temp2,57955.00
-147,Drums3,3,temp3,75787.00
-148,Guitar1,4,temp4,35666.00
-149,Guitar2,5,temp5,57955.00
-150,Guitar3,6,temp6,75787.00
-151,Bass1,7,temp7,35666.00
-152,Bass2,8,temp8,57955.00
-153,Bass3,9,temp9,75787.00
-154,Wild1,10,temp10,35666.00
-155,Wild2,11,temp11,57955.00
-156,Wild3,12,temp12,75787.00
-157,Drums1,1,Kick it,42799.00
-158,Drums2,2,temp2,69546.00
-159,Drums3,3,temp3,90944.00
-160,Guitar1,4,temp4,42799.00
-161,Guitar2,5,temp5,69546.00
-162,Guitar3,6,temp6,90944.00
-163,Bass1,7,temp7,42799.00
-164,Bass2,8,temp8,69546.00
-165,Bass3,9,temp9,90944.00
-166,Wild1,10,temp10,42799.00
-167,Wild2,11,temp11,69546.00
-168,Wild3,12,temp12,90944.00
-169,Drums1,1,Kick it,51359.00
-170,Drums2,2,temp2,83455.00
-171,Drums3,3,temp3,109133.00
-172,Guitar1,4,temp4,51359.00
-173,Guitar2,5,temp5,83455.00
-174,Guitar3,6,temp6,109133.00
-175,Bass1,7,temp7,51359.00
-176,Bass2,8,temp8,83455.00
-177,Bass3,9,temp9,109133.00
-178,Wild1,10,temp10,51359.00
-179,Wild2,11,temp11,83455.00
-180,Wild3,12,temp12,109133.00
-181,Drums1,1,Kick it,61631.00
-182,Drums2,2,temp2,100146.00
-183,Drums3,3,temp3,130960.00
-184,Guitar1,4,temp4,61631.00
-185,Guitar2,5,temp5,100146.00
-186,Guitar3,6,temp6,130960.00
-187,Bass1,7,temp7,61631.00
-188,Bass2,8,temp8,100146.00
-189,Bass3,9,temp9,130960.00
-190,Wild1,10,temp10,61631.00
-191,Wild2,11,temp11,100146.00
-192,Wild3,12,temp12,130960.00
-193,Drums1,1,Kick it,73957.00
-194,Drums2,2,temp2,120175.00
-195,Drums3,3,temp3,157152.00
-196,Guitar1,4,temp4,73957.00
-197,Guitar2,5,temp5,120175.00
-198,Guitar3,6,temp6,157152.00
-199,Bass1,7,temp7,73957.00
-200,Bass2,8,temp8,120175.00
-201,Bass3,9,temp9,157152.00
-202,Wild1,10,temp10,73957.00
-203,Wild2,11,temp11,120175.00
-204,Wild3,12,temp12,157152.00
-205,Drums1,1,Kick it,88748.00
-206,Drums2,2,temp2,144210.00
-207,Drums3,3,temp3,188582.00
-208,Guitar1,4,temp4,88748.00
-209,Guitar2,5,temp5,144210.00
-210,Guitar3,6,temp6,188582.00
-211,Bass1,7,temp7,88748.00
-212,Bass2,8,temp8,144210.00
-213,Bass3,9,temp9,188582.00
-214,Wild1,10,temp10,88748.00
-215,Wild2,11,temp11,144210.00
-216,Wild3,12,temp12,188582.00
-217,Drums1,1,Kick it,106498.00
-218,Drums2,2,temp2,173052.00
-219,Drums3,3,temp3,226298.00
-220,Guitar1,4,temp4,106498.00
-221,Guitar2,5,temp5,173052.00
-222,Guitar3,6,temp6,226298.00
-223,Bass1,7,temp7,106498.00
-224,Bass2,8,temp8,173052.00
-225,Bass3,9,temp9,226298.00
-226,Wild1,10,temp10,106498.00
-227,Wild2,11,temp11,173052.00
-228,Wild3,12,temp12,226298.00
-229,Drums1,1,Kick it,127798.00
-230,Drums2,2,temp2,207662.00
-231,Drums3,3,temp3,271558.00
-232,Guitar1,4,temp4,127798.00
-233,Guitar2,5,temp5,207662.00
-234,Guitar3,6,temp6,271558.00
-235,Bass1,7,temp7,127798.00
-236,Bass2,8,temp8,207662.00
-237,Bass3,9,temp9,271558.00
-238,Wild1,10,temp10,127798.00
-239,Wild2,11,temp11,207662.00
-240,Wild3,12,temp12,271558.00
-241,Drums1,1,Kick it,153358.00
-242,Drums2,2,temp2,249194.00
-243,Drums3,3,temp3,325870.00
-244,Guitar1,4,temp4,153358.00
-245,Guitar2,5,temp5,249194.00
-246,Guitar3,6,temp6,325870.00
-247,Bass1,7,temp7,153358.00
-248,Bass2,8,temp8,249194.00
-249,Bass3,9,temp9,325870.00
-250,Wild1,10,temp10,153358.00
-251,Wild2,11,temp11,249194.00
-252,Wild3,12,temp12,325870.00
-253,Drums1,1,Kick it,184030.00
-254,Drums2,2,temp2,299033.00
-255,Drums3,3,temp3,391044.00
-256,Guitar1,4,temp4,184030.00
-257,Guitar2,5,temp5,299033.00
-258,Guitar3,6,temp6,391044.00
-259,Bass1,7,temp7,184030.00
-260,Bass2,8,temp8,299033.00
-261,Bass3,9,temp9,391044.00
-262,Wild1,10,temp10,184030.00
-263,Wild2,11,temp11,299033.00
-264,Wild3,12,temp12,391044.00
-265,Drums1,1,Kick it,220836.00
-266,Drums2,2,temp2,358840.00
-267,Drums3,3,temp3,469253.00
-268,Guitar1,4,temp4,220836.00
-269,Guitar2,5,temp5,358840.00
-270,Guitar3,6,temp6,469253.00
-271,Bass1,7,temp7,220836.00
-272,Bass2,8,temp8,358840.00
-273,Bass3,9,temp9,469253.00
-274,Wild1,10,temp10,220836.00
-275,Wild2,11,temp11,358840.00
-276,Wild3,12,temp12,469253.00
-277,Drums1,1,Kick it,265003.00
-278,Drums2,2,temp2,430608.00
-279,Drums3,3,temp3,563104.00
-280,Guitar1,4,temp4,265003.00
-281,Guitar2,5,temp5,430608.00
-282,Guitar3,6,temp6,563104.00
-283,Bass1,7,temp7,265003.00
-284,Bass2,8,temp8,430608.00
-285,Bass3,9,temp9,563104.00
-286,Wild1,10,temp10,265003.00
-287,Wild2,11,temp11,430608.00
-288,Wild3,12,temp12,563104.00
-289,Drums1,1,Kick it,318004.00
-290,Drums2,2,temp2,516730.00
-291,Drums3,3,temp3,675725.00
-292,Guitar1,4,temp4,318004.00
-293,Guitar2,5,temp5,516730.00
-294,Guitar3,6,temp6,675725.00
-295,Bass1,7,temp7,318004.00
-296,Bass2,8,temp8,516730.00
-297,Bass3,9,temp9,675725.00
-298,Wild1,10,temp10,318004.00
-299,Wild2,11,temp11,516730.00
-300,Wild3,12,temp12,675725.00
-301,Drums1,1,Kick it,381605.00
-302,Drums2,2,temp2,620076.00
-303,Drums3,3,temp3,810870.00
-304,Guitar1,4,temp4,381605.00
-305,Guitar2,5,temp5,620076.00
-306,Guitar3,6,temp6,810870.00
-307,Bass1,7,temp7,381605.00
-308,Bass2,8,temp8,620076.00
-309,Bass3,9,temp9,810870.00
-310,Wild1,10,temp10,381605.00
-311,Wild2,11,temp11,620076.00
-312,Wild3,12,temp12,810870.00
-313,Drums1,1,Kick it,457926.00
-314,Drums2,2,temp2,744091.00
-315,Drums3,3,temp3,973044.00
-316,Guitar1,4,temp4,457926.00
-317,Guitar2,5,temp5,744091.00
-318,Guitar3,6,temp6,973044.00
-319,Bass1,7,temp7,457926.00
-320,Bass2,8,temp8,744091.00
-321,Bass3,9,temp9,973044.00
-322,Wild1,10,temp10,457926.00
-323,Wild2,11,temp11,744091.00
-324,Wild3,12,temp12,973044.00
-325,Drums1,1,Kick it,549511.00
-326,Drums2,2,temp2,892909.00
-327,Drums3,3,temp3,1167653.00
-328,Guitar1,4,temp4,549511.00
-329,Guitar2,5,temp5,892909.00
-330,Guitar3,6,temp6,1167653.00
-331,Bass1,7,temp7,549511.00
-332,Bass2,8,temp8,892909.00
-333,Bass3,9,temp9,1167653.00
-334,Wild1,10,temp10,549511.00
-335,Wild2,11,temp11,892909.00
-336,Wild3,12,temp12,1167653.00
-337,Drums1,1,Kick it,659413.00
-338,Drums2,2,temp2,1071491.00
-339,Drums3,3,temp3,1401184.00
-340,Guitar1,4,temp4,659413.00
-341,Guitar2,5,temp5,1071491.00
-342,Guitar3,6,temp6,1401184.00
-343,Bass1,7,temp7,659413.00
-344,Bass2,8,temp8,1071491.00
-345,Bass3,9,temp9,1401184.00
-346,Wild1,10,temp10,659413.00
-347,Wild2,11,temp11,1071491.00
-348,Wild3,12,temp12,1401184.00
-349,Drums1,1,Kick it,791296.00
-350,Drums2,2,temp2,1285789.00
-351,Drums3,3,temp3,1681421.00
-352,Guitar1,4,temp4,791296.00
-353,Guitar2,5,temp5,1285789.00
-354,Guitar3,6,temp6,1681421.00
-355,Bass1,7,temp7,791296.00
-356,Bass2,8,temp8,1285789.00
-357,Bass3,9,temp9,1681421.00
-358,Wild1,10,temp10,791296.00
-359,Wild2,11,temp11,1285789.00
-360,Wild3,12,temp12,1681421.00
-361,Drums1,1,Kick it,949555.00
-362,Drums2,2,temp2,1542947.00
-363,Drums3,3,temp3,2017705.00
-364,Guitar1,4,temp4,949555.00
-365,Guitar2,5,temp5,1542947.00
-366,Guitar3,6,temp6,2017705.00
-367,Bass1,7,temp7,949555.00
-368,Bass2,8,temp8,1542947.00
-369,Bass3,9,temp9,2017705.00
-370,Wild1,10,temp10,949555.00
-371,Wild2,11,temp11,1542947.00
-372,Wild3,12,temp12,2017705.00
-373,Drums1,1,Kick it,1139466.00
-374,Drums2,2,temp2,1851536.00
-375,Drums3,3,temp3,2421246.00
-376,Guitar1,4,temp4,1139466.00
-377,Guitar2,5,temp5,1851536.00
-378,Guitar3,6,temp6,2421246.00
-379,Bass1,7,temp7,1139466.00
-380,Bass2,8,temp8,1851536.00
-381,Bass3,9,temp9,2421246.00
-382,Wild1,10,temp10,1139466.00
-383,Wild2,11,temp11,1851536.00
-384,Wild3,12,temp12,2421246.00
-385,Drums1,1,Kick it,1367359.00
-386,Drums2,2,temp2,2221843.00
-387,Drums3,3,temp3,2905495.00
-388,Guitar1,4,temp4,1367359.00
-389,Guitar2,5,temp5,2221843.00
-390,Guitar3,6,temp6,2905495.00
-391,Bass1,7,temp7,1367359.00
-392,Bass2,8,temp8,2221843.00
-393,Bass3,9,temp9,2905495.00
-394,Wild1,10,temp10,1367359.00
-395,Wild2,11,temp11,2221843.00
-396,Wild3,12,temp12,2905495.00
-397,Drums1,1,Kick it,1640831.00
-398,Drums2,2,temp2,2666212.00
-399,Drums3,3,temp3,3486594.00
-400,Guitar1,4,temp4,1640831.00
-401,Guitar2,5,temp5,2666212.00
-402,Guitar3,6,temp6,3486594.00
-403,Bass1,7,temp7,1640831.00
-404,Bass2,8,temp8,2666212.00
-405,Bass3,9,temp9,3486594.00
-406,Wild1,10,temp10,1640831.00
-407,Wild2,11,temp11,2666212.00
-408,Wild3,12,temp12,3486594.00
-409,Drums1,1,Kick it,1968997.00
-410,Drums2,2,temp2,3199454.00
-411,Drums3,3,temp3,4183913.00
-412,Guitar1,4,temp4,1968997.00
-413,Guitar2,5,temp5,3199454.00
-414,Guitar3,6,temp6,4183913.00
-415,Bass1,7,temp7,1968997.00
-416,Bass2,8,temp8,3199454.00
-417,Bass3,9,temp9,4183913.00
-418,Wild1,10,temp10,1968997.00
-419,Wild2,11,temp11,3199454.00
-420,Wild3,12,temp12,4183913.00
-421,Drums1,1,Kick it,2362796.00
-422,Drums2,2,temp2,3839345.00
-423,Drums3,3,temp3,5020696.00
-424,Guitar1,4,temp4,2362796.00
-425,Guitar2,5,temp5,3839345.00
-426,Guitar3,6,temp6,5020696.00
-427,Bass1,7,temp7,2362796.00
-428,Bass2,8,temp8,3839345.00
-429,Bass3,9,temp9,5020696.00
-430,Wild1,10,temp10,2362796.00
-431,Wild2,11,temp11,3839345.00
-432,Wild3,12,temp12,5020696.00
-433,Drums1,1,Kick it,2835355.00
-434,Drums2,2,temp2,4607214.00
-435,Drums3,3,temp3,6024835.00
-436,Guitar1,4,temp4,2835355.00
-437,Guitar2,5,temp5,4607214.00
-438,Guitar3,6,temp6,6024835.00
-439,Bass1,7,temp7,2835355.00
-440,Bass2,8,temp8,4607214.00
-441,Bass3,9,temp9,6024835.00
-442,Wild1,10,temp10,2835355.00
-443,Wild2,11,temp11,4607214.00
-444,Wild3,12,temp12,6024835.00
-445,Drums1,1,Kick it,3402426.00
-446,Drums2,2,temp2,5528657.00
-447,Drums3,3,temp3,7229802.00
-448,Guitar1,4,temp4,3402426.00
-449,Guitar2,5,temp5,5528657.00
-450,Guitar3,6,temp6,7229802.00
-451,Bass1,7,temp7,3402426.00
-452,Bass2,8,temp8,5528657.00
-453,Bass3,9,temp9,7229802.00
-454,Wild1,10,temp10,3402426.00
-455,Wild2,11,temp11,5528657.00
-456,Wild3,12,temp12,7229802.00
-457,Drums1,1,Kick it,4082911.00
-458,Drums2,2,temp2,6634388.00
-459,Drums3,3,temp3,8675762.00
-460,Guitar1,4,temp4,4082911.00
-461,Guitar2,5,temp5,6634388.00
-462,Guitar3,6,temp6,8675762.00
-463,Bass1,7,temp7,4082911.00
-464,Bass2,8,temp8,6634388.00
-465,Bass3,9,temp9,8675762.00
-466,Wild1,10,temp10,4082911.00
-467,Wild2,11,temp11,6634388.00
-468,Wild3,12,temp12,8675762.00
-469,Drums1,1,Kick it,4899493.00
-470,Drums2,2,temp2,7961266.00
-471,Drums3,3,temp3,10410914.00
-472,Guitar1,4,temp4,4899493.00
-473,Guitar2,5,temp5,7961266.00
-474,Guitar3,6,temp6,10410914.00
-475,Bass1,7,temp7,4899493.00
-476,Bass2,8,temp8,7961266.00
-477,Bass3,9,temp9,10410914.00
-478,Wild1,10,temp10,4899493.00
-479,Wild2,11,temp11,7961266.00
-480,Wild3,12,temp12,10410914.00
-481,Drums1,1,Kick it,5879392.00
-482,Drums2,2,temp2,9553519.00
-483,Drums3,3,temp3,12493097.00
-484,Guitar1,4,temp4,5879392.00
-485,Guitar2,5,temp5,9553519.00
-486,Guitar3,6,temp6,12493097.00
-487,Bass1,7,temp7,5879392.00
-488,Bass2,8,temp8,9553519.00
-489,Bass3,9,temp9,12493097.00
-490,Wild1,10,temp10,5879392.00
-491,Wild2,11,temp11,9553519.00
-492,Wild3,12,temp12,12493097.00
-493,Drums1,1,Kick it,7055270.00
-494,Drums2,2,temp2,11464223.00
-495,Drums3,3,temp3,14991716.00
-496,Guitar1,4,temp4,7055270.00
-497,Guitar2,5,temp5,11464223.00
-498,Guitar3,6,temp6,14991716.00
-499,Bass1,7,temp7,7055270.00
-500,Bass2,8,temp8,11464223.00
-501,Bass3,9,temp9,14991716.00
-502,Wild1,10,temp10,7055270.00
-503,Wild2,11,temp11,11464223.00
-504,Wild3,12,temp12,14991716.00
-505,Drums1,1,Kick it,8466324.00
-506,Drums2,2,temp2,13757068.00
-507,Drums3,3,temp3,17990059.00
-508,Guitar1,4,temp4,8466324.00
-509,Guitar2,5,temp5,13757068.00
-510,Guitar3,6,temp6,17990059.00
-511,Bass1,7,temp7,8466324.00
-512,Bass2,8,temp8,13757068.00
-513,Bass3,9,temp9,17990059.00
-514,Wild1,10,temp10,8466324.00
-515,Wild2,11,temp11,13757068.00
-516,Wild3,12,temp12,17990059.00
-517,Drums1,1,Kick it,10159589.00
-518,Drums2,2,temp2,16508482.00
-519,Drums3,3,temp3,21588071.00
-520,Guitar1,4,temp4,10159589.00
-521,Guitar2,5,temp5,16508482.00
-522,Guitar3,6,temp6,21588071.00
-523,Bass1,7,temp7,10159589.00
-524,Bass2,8,temp8,16508482.00
-525,Bass3,9,temp9,21588071.00
-526,Wild1,10,temp10,10159589.00
-527,Wild2,11,temp11,16508482.00
-528,Wild3,12,temp12,21588071.00
-529,Drums1,1,Kick it,12191507.00
-530,Drums2,2,temp2,19810178.00
-531,Drums3,3,temp3,25905685.00
-532,Guitar1,4,temp4,12191507.00
-533,Guitar2,5,temp5,19810178.00
-534,Guitar3,6,temp6,25905685.00
-535,Bass1,7,temp7,12191507.00
-536,Bass2,8,temp8,19810178.00
-537,Bass3,9,temp9,25905685.00
-538,Wild1,10,temp10,12191507.00
-539,Wild2,11,temp11,19810178.00
-540,Wild3,12,temp12,25905685.00
-541,Drums1,1,Kick it,14629808.00
-542,Drums2,2,temp2,23772214.00
-543,Drums3,3,temp3,31086822.00
-544,Guitar1,4,temp4,14629808.00
-545,Guitar2,5,temp5,23772214.00
-546,Guitar3,6,temp6,31086822.00
-547,Bass1,7,temp7,14629808.00
-548,Bass2,8,temp8,23772214.00
-549,Bass3,9,temp9,31086822.00
-550,Wild1,10,temp10,14629808.00
-551,Wild2,11,temp11,23772214.00
-552,Wild3,12,temp12,31086822.00
-553,Drums1,1,Kick it,17555770.00
-554,Drums2,2,temp2,28526657.00
-555,Drums3,3,temp3,37304186.00
-556,Guitar1,4,temp4,17555770.00
-557,Guitar2,5,temp5,28526657.00
-558,Guitar3,6,temp6,37304186.00
-559,Bass1,7,temp7,17555770.00
-560,Bass2,8,temp8,28526657.00
-561,Bass3,9,temp9,37304186.00
-562,Wild1,10,temp10,17555770.00
-563,Wild2,11,temp11,28526657.00
-564,Wild3,12,temp12,37304186.00
-565,Drums1,1,Kick it,21066924.00
-566,Drums2,2,temp2,34231988.00
-567,Drums3,3,temp3,44765023.00
-568,Guitar1,4,temp4,21066924.00
-569,Guitar2,5,temp5,34231988.00
-570,Guitar3,6,temp6,44765023.00
-571,Bass1,7,temp7,21066924.00
-572,Bass2,8,temp8,34231988.00
-573,Bass3,9,temp9,44765023.00
-574,Wild1,10,temp10,21066924.00
-575,Wild2,11,temp11,34231988.00
-576,Wild3,12,temp12,44765023.00
-577,Drums1,1,Kick it,25280309.00
-578,Drums2,2,temp2,41078386.00
-579,Drums3,3,temp3,53718028.00
-580,Guitar1,4,temp4,25280309.00
-581,Guitar2,5,temp5,41078386.00
-582,Guitar3,6,temp6,53718028.00
-583,Bass1,7,temp7,25280309.00
-584,Bass2,8,temp8,41078386.00
-585,Bass3,9,temp9,53718028.00
-586,Wild1,10,temp10,25280309.00
-587,Wild2,11,temp11,41078386.00
-588,Wild3,12,temp12,53718028.00
-589,Drums1,1,Kick it,30336371.00
-590,Drums2,2,temp2,49294063.00
-591,Drums3,3,temp3,64461634.00
-592,Guitar1,4,temp4,30336371.00
-593,Guitar2,5,temp5,49294063.00
-594,Guitar3,6,temp6,64461634.00
-595,Bass1,7,temp7,30336371.00
-596,Bass2,8,temp8,49294063.00
-597,Bass3,9,temp9,64461634.00
-598,Wild1,10,temp10,30336371.00
-599,Wild2,11,temp11,49294063.00
-600,Wild3,12,temp12,64461634.00
-601,Drums1,1,Kick it,36403645.00
-602,Drums2,2,temp2,59152876.00
-603,Drums3,3,temp3,77353961.00
-604,Guitar1,4,temp4,36403645.00
-605,Guitar2,5,temp5,59152876.00
-606,Guitar3,6,temp6,77353961.00
-607,Bass1,7,temp7,36403645.00
-608,Bass2,8,temp8,59152876.00
-609,Bass3,9,temp9,77353961.00
-610,Wild1,10,temp10,36403645.00
-611,Wild2,11,temp11,59152876.00
-612,Wild3,12,temp12,77353961.00
-613,Drums1,1,Kick it,43684374.00
-614,Drums2,2,temp2,70983451.00
-615,Drums3,3,temp3,92824753.00
-616,Guitar1,4,temp4,43684374.00
-617,Guitar2,5,temp5,70983451.00
-618,Guitar3,6,temp6,92824753.00
-619,Bass1,7,temp7,43684374.00
-620,Bass2,8,temp8,70983451.00
-621,Bass3,9,temp9,92824753.00
-622,Wild1,10,temp10,43684374.00
-623,Wild2,11,temp11,70983451.00
-624,Wild3,12,temp12,92824753.00
-625,Drums1,1,Kick it,52421249.00
-626,Drums2,2,temp2,85180141.00
-627,Drums3,3,temp3,111389704.00
-628,Guitar1,4,temp4,52421249.00
-629,Guitar2,5,temp5,85180141.00
-630,Guitar3,6,temp6,111389704.00
-631,Bass1,7,temp7,52421249.00
-632,Bass2,8,temp8,85180141.00
-633,Bass3,9,temp9,111389704.00
-634,Wild1,10,temp10,52421249.00
-635,Wild2,11,temp11,85180141.00
-636,Wild3,12,temp12,111389704.00
-637,Drums1,1,Kick it,62905499.00
-638,Drums2,2,temp2,102216169.00
-639,Drums3,3,temp3,133667645.00
-640,Guitar1,4,temp4,62905499.00
-641,Guitar2,5,temp5,102216169.00
-642,Guitar3,6,temp6,133667645.00
-643,Bass1,7,temp7,62905499.00
-644,Bass2,8,temp8,102216169.00
-645,Bass3,9,temp9,133667645.00
-646,Wild1,10,temp10,62905499.00
-647,Wild2,11,temp11,102216169.00
-648,Wild3,12,temp12,133667645.00
-649,Drums1,1,Kick it,75486599.00
-650,Drums2,2,temp2,122659403.00
-651,Drums3,3,temp3,160401174.00
-652,Guitar1,4,temp4,75486599.00
-653,Guitar2,5,temp5,122659403.00
-654,Guitar3,6,temp6,160401174.00
-655,Bass1,7,temp7,75486599.00
-656,Bass2,8,temp8,122659403.00
-657,Bass3,9,temp9,160401174.00
-658,Wild1,10,temp10,75486599.00
-659,Wild2,11,temp11,122659403.00
-660,Wild3,12,temp12,160401174.00
-661,Drums1,1,Kick it,90583919.00
-662,Drums2,2,temp2,147191284.00
-663,Drums3,3,temp3,192481409.00
-664,Guitar1,4,temp4,90583919.00
-665,Guitar2,5,temp5,147191284.00
-666,Guitar3,6,temp6,192481409.00
-667,Bass1,7,temp7,90583919.00
-668,Bass2,8,temp8,147191284.00
-669,Bass3,9,temp9,192481409.00
-670,Wild1,10,temp10,90583919.00
-671,Wild2,11,temp11,147191284.00
-672,Wild3,12,temp12,192481409.00
-673,Drums1,1,Kick it,108700703.00
-674,Drums2,2,temp2,176629541.00
-675,Drums3,3,temp3,230977691.00
-676,Guitar1,4,temp4,108700703.00
-677,Guitar2,5,temp5,176629541.00
-678,Guitar3,6,temp6,230977691.00
-679,Bass1,7,temp7,108700703.00
-680,Bass2,8,temp8,176629541.00
-681,Bass3,9,temp9,230977691.00
-682,Wild1,10,temp10,108700703.00
-683,Wild2,11,temp11,176629541.00
-684,Wild3,12,temp12,230977691.00
-685,Drums1,1,Kick it,130440844.00
-686,Drums2,2,temp2,211955449.00
-687,Drums3,3,temp3,277173229.00
-688,Guitar1,4,temp4,130440844.00
-689,Guitar2,5,temp5,211955449.00
-690,Guitar3,6,temp6,277173229.00
-691,Bass1,7,temp7,130440844.00
-692,Bass2,8,temp8,211955449.00
-693,Bass3,9,temp9,277173229.00
-694,Wild1,10,temp10,130440844.00
-695,Wild2,11,temp11,211955449.00
-696,Wild3,12,temp12,277173229.00
-697,Drums1,1,Kick it,156529013.00
-698,Drums2,2,temp2,254346539.00
-699,Drums3,3,temp3,332607875.00
-700,Guitar1,4,temp4,156529013.00
-701,Guitar2,5,temp5,254346539.00
-702,Guitar3,6,temp6,332607875.00
-703,Bass1,7,temp7,156529013.00
-704,Bass2,8,temp8,254346539.00
-705,Bass3,9,temp9,332607875.00
-706,Wild1,10,temp10,156529013.00
-707,Wild2,11,temp11,254346539.00
-708,Wild3,12,temp12,332607875.00
-709,Drums1,1,Kick it,187834816.00
-710,Drums2,2,temp2,305215847.00
-711,Drums3,3,temp3,399129450.00
-712,Guitar1,4,temp4,187834816.00
-713,Guitar2,5,temp5,305215847.00
-714,Guitar3,6,temp6,399129450.00
-715,Bass1,7,temp7,187834816.00
-716,Bass2,8,temp8,305215847.00
-717,Bass3,9,temp9,399129450.00
-718,Wild1,10,temp10,187834816.00
-719,Wild2,11,temp11,305215847.00
-720,Wild3,12,temp12,399129450.00
-721,Drums1,1,Kick it,225401779.00
-722,Drums2,2,temp2,366259016.00
-723,Drums3,3,temp3,478955340.00
-724,Guitar1,4,temp4,225401779.00
-725,Guitar2,5,temp5,366259016.00
-726,Guitar3,6,temp6,478955340.00
-727,Bass1,7,temp7,225401779.00
-728,Bass2,8,temp8,366259016.00
-729,Bass3,9,temp9,478955340.00
-730,Wild1,10,temp10,225401779.00
-731,Wild2,11,temp11,366259016.00
-732,Wild3,12,temp12,478955340.00
-733,Drums1,1,Kick it,270482135.00
-734,Drums2,2,temp2,439510819.00
-735,Drums3,3,temp3,574746408.00
-736,Guitar1,4,temp4,270482135.00
-737,Guitar2,5,temp5,439510819.00
-738,Guitar3,6,temp6,574746408.00
-739,Bass1,7,temp7,270482135.00
-740,Bass2,8,temp8,439510819.00
-741,Bass3,9,temp9,574746408.00
-742,Wild1,10,temp10,270482135.00
-743,Wild2,11,temp11,439510819.00
-744,Wild3,12,temp12,574746408.00
-745,Drums1,1,Kick it,324578562.00
-746,Drums2,2,temp2,527412983.00
-747,Drums3,3,temp3,689695690.00
-748,Guitar1,4,temp4,324578562.00
-749,Guitar2,5,temp5,527412983.00
-750,Guitar3,6,temp6,689695690.00
-751,Bass1,7,temp7,324578562.00
-752,Bass2,8,temp8,527412983.00
-753,Bass3,9,temp9,689695690.00
-754,Wild1,10,temp10,324578562.00
-755,Wild2,11,temp11,527412983.00
-756,Wild3,12,temp12,689695690.00
-757,Drums1,1,Kick it,389494274.00
-758,Drums2,2,temp2,632895580.00
-759,Drums3,3,temp3,827634828.00
-760,Guitar1,4,temp4,389494274.00
-761,Guitar2,5,temp5,632895580.00
-762,Guitar3,6,temp6,827634828.00
-763,Bass1,7,temp7,389494274.00
-764,Bass2,8,temp8,632895580.00
-765,Bass3,9,temp9,827634828.00
-766,Wild1,10,temp10,389494274.00
-767,Wild2,11,temp11,632895580.00
-768,Wild3,12,temp12,827634828.00
-769,Drums1,1,Kick it,467393129.00
-770,Drums2,2,temp2,759474696.00
-771,Drums3,3,temp3,993161794.00
-772,Guitar1,4,temp4,467393129.00
-773,Guitar2,5,temp5,759474696.00
-774,Guitar3,6,temp6,993161794.00
-775,Bass1,7,temp7,467393129.00
-776,Bass2,8,temp8,759474696.00
-777,Bass3,9,temp9,993161794.00
-778,Wild1,10,temp10,467393129.00
-779,Wild2,11,temp11,759474696.00
-780,Wild3,12,temp12,993161794.00
-781,Drums1,1,Kick it,560871755.00
-782,Drums2,2,temp2,911369635.00
-783,Drums3,3,temp3,1191794153.00
-784,Guitar1,4,temp4,560871755.00
-785,Guitar2,5,temp5,911369635.00
-786,Guitar3,6,temp6,1191794153.00
-787,Bass1,7,temp7,560871755.00
-788,Bass2,8,temp8,911369635.00
-789,Bass3,9,temp9,1191794153.00
-790,Wild1,10,temp10,560871755.00
-791,Wild2,11,temp11,911369635.00
-792,Wild3,12,temp12,1191794153.00
-793,Drums1,1,Kick it,673046106.00
-794,Drums2,2,temp2,1093643562.00
-795,Drums3,3,temp3,1430152984.00
-796,Guitar1,4,temp4,673046106.00
-797,Guitar2,5,temp5,1093643562.00
-798,Guitar3,6,temp6,1430152984.00
-799,Bass1,7,temp7,673046106.00
-800,Bass2,8,temp8,1093643562.00
-801,Bass3,9,temp9,1430152984.00
-802,Wild1,10,temp10,673046106.00
-803,Wild2,11,temp11,1093643562.00
-804,Wild3,12,temp12,1430152984.00
-805,Drums1,1,Kick it,807655327.00
-806,Drums2,2,temp2,1312372274.00
-807,Drums3,3,temp3,1716183581.00
-808,Guitar1,4,temp4,807655327.00
-809,Guitar2,5,temp5,1312372274.00
-810,Guitar3,6,temp6,1716183581.00
-811,Bass1,7,temp7,807655327.00
-812,Bass2,8,temp8,1312372274.00
-813,Bass3,9,temp9,1716183581.00
-814,Wild1,10,temp10,807655327.00
-815,Wild2,11,temp11,1312372274.00
-816,Wild3,12,temp12,1716183581.00
-817,Drums1,1,Kick it,969186392.00
-818,Drums2,2,temp2,1574846729.00
-819,Drums3,3,temp3,2059420297.00
-820,Guitar1,4,temp4,969186392.00
-821,Guitar2,5,temp5,1574846729.00
-822,Guitar3,6,temp6,2059420297.00
-823,Bass1,7,temp7,969186392.00
-824,Bass2,8,temp8,1574846729.00
-825,Bass3,9,temp9,2059420297.00
-826,Wild1,10,temp10,969186392.00
-827,Wild2,11,temp11,1574846729.00
-828,Wild3,12,temp12,2059420297.00
-829,Drums1,1,Kick it,1163023670.00
-830,Drums2,2,temp2,1889816075.00
-831,Drums3,3,temp3,2471304356.00
-832,Guitar1,4,temp4,1163023670.00
-833,Guitar2,5,temp5,1889816075.00
-834,Guitar3,6,temp6,2471304356.00
-835,Bass1,7,temp7,1163023670.00
-836,Bass2,8,temp8,1889816075.00
-837,Bass3,9,temp9,2471304356.00
-838,Wild1,10,temp10,1163023670.00
-839,Wild2,11,temp11,1889816075.00
-840,Wild3,12,temp12,2471304356.00
-841,Drums1,1,Kick it,1395628404.00
-842,Drums2,2,temp2,2267779290.00
-843,Drums3,3,temp3,2965565227.00
-844,Guitar1,4,temp4,1395628404.00
-845,Guitar2,5,temp5,2267779290.00
-846,Guitar3,6,temp6,2965565227.00
-847,Bass1,7,temp7,1395628404.00
-848,Bass2,8,temp8,2267779290.00
-849,Bass3,9,temp9,2965565227.00
-850,Wild1,10,temp10,1395628404.00
-851,Wild2,11,temp11,2267779290.00
-852,Wild3,12,temp12,2965565227.00
-853,Drums1,1,Kick it,1674754085.00
-854,Drums2,2,temp2,2721335148.00
-855,Drums3,3,temp3,3558678272.00
-856,Guitar1,4,temp4,1674754085.00
-857,Guitar2,5,temp5,2721335148.00
-858,Guitar3,6,temp6,3558678272.00
-859,Bass1,7,temp7,1674754085.00
-860,Bass2,8,temp8,2721335148.00
-861,Bass3,9,temp9,3558678272.00
-862,Wild1,10,temp10,1674754085.00
-863,Wild2,11,temp11,2721335148.00
-864,Wild3,12,temp12,3558678272.00
-865,Drums1,1,Kick it,2009704902.00
-866,Drums2,2,temp2,3265602178.00
-867,Drums3,3,temp3,4270413926.00
-868,Guitar1,4,temp4,2009704902.00
-869,Guitar2,5,temp5,3265602178.00
-870,Guitar3,6,temp6,4270413926.00
-871,Bass1,7,temp7,2009704902.00
-872,Bass2,8,temp8,3265602178.00
-873,Bass3,9,temp9,4270413926.00
-874,Wild1,10,temp10,2009704902.00
-875,Wild2,11,temp11,3265602178.00
-876,Wild3,12,temp12,4270413926.00
-877,Drums1,1,Kick it,2411645882.00
-878,Drums2,2,temp2,3918722614.00
-879,Drums3,3,temp3,5124496711.00
-880,Guitar1,4,temp4,2411645882.00
-881,Guitar2,5,temp5,3918722614.00
-882,Guitar3,6,temp6,5124496711.00
-883,Bass1,7,temp7,2411645882.00
-884,Bass2,8,temp8,3918722614.00
-885,Bass3,9,temp9,5124496711.00
-886,Wild1,10,temp10,2411645882.00
-887,Wild2,11,temp11,3918722614.00
-888,Wild3,12,temp12,5124496711.00
-889,Drums1,1,Kick it,2893975058.00
-890,Drums2,2,temp2,4702467137.00
-891,Drums3,3,temp3,6149396053.00
-892,Guitar1,4,temp4,2893975058.00
-893,Guitar2,5,temp5,4702467137.00
-894,Guitar3,6,temp6,6149396053.00
-895,Bass1,7,temp7,2893975058.00
-896,Bass2,8,temp8,4702467137.00
-897,Bass3,9,temp9,6149396053.00
-898,Wild1,10,temp10,2893975058.00
-899,Wild2,11,temp11,4702467137.00
-900,Wild3,12,temp12,6149396053.00
-901,Drums1,1,Kick it,3472770070.00
-902,Drums2,2,temp2,5642960564.00
-903,Drums3,3,temp3,7379275264.00
-904,Guitar1,4,temp4,3472770070.00
-905,Guitar2,5,temp5,5642960564.00
-906,Guitar3,6,temp6,7379275264.00
-907,Bass1,7,temp7,3472770070.00
-908,Bass2,8,temp8,5642960564.00
-909,Bass3,9,temp9,7379275264.00
-910,Wild1,10,temp10,3472770070.00
-911,Wild2,11,temp11,5642960564.00
-912,Wild3,12,temp12,7379275264.00
-913,Drums1,1,Kick it,4167324084.00
-914,Drums2,2,temp2,6771552677.00
-915,Drums3,3,temp3,8855130317.00
-916,Guitar1,4,temp4,4167324084.00
-917,Guitar2,5,temp5,6771552677.00
-918,Guitar3,6,temp6,8855130317.00
-919,Bass1,7,temp7,4167324084.00
-920,Bass2,8,temp8,6771552677.00
-921,Bass3,9,temp9,8855130317.00
-922,Wild1,10,temp10,4167324084.00
-923,Wild2,11,temp11,6771552677.00
-924,Wild3,12,temp12,8855130317.00
-925,Drums1,1,Kick it,5000788901.00
-926,Drums2,2,temp2,8125863212.00
-927,Drums3,3,temp3,10626156380.00
-928,Guitar1,4,temp4,5000788901.00
-929,Guitar2,5,temp5,8125863212.00
-930,Guitar3,6,temp6,10626156380.00
-931,Bass1,7,temp7,5000788901.00
-932,Bass2,8,temp8,8125863212.00
-933,Bass3,9,temp9,10626156380.00
-934,Wild1,10,temp10,5000788901.00
-935,Wild2,11,temp11,8125863212.00
-936,Wild3,12,temp12,10626156380.00
-937,Drums1,1,Kick it,6000946681.00
-938,Drums2,2,temp2,9751035854.00
-939,Drums3,3,temp3,12751387656.00
-940,Guitar1,4,temp4,6000946681.00
-941,Guitar2,5,temp5,9751035854.00
-942,Guitar3,6,temp6,12751387656.00
-943,Bass1,7,temp7,6000946681.00
-944,Bass2,8,temp8,9751035854.00
-945,Bass3,9,temp9,12751387656.00
-946,Wild1,10,temp10,6000946681.00
-947,Wild2,11,temp11,9751035854.00
-948,Wild3,12,temp12,12751387656.00
-949,Drums1,1,Kick it,7201136017.00
-950,Drums2,2,temp2,11701243025.00
-951,Drums3,3,temp3,15301665187.00
-952,Guitar1,4,temp4,7201136017.00
-953,Guitar2,5,temp5,11701243025.00
-954,Guitar3,6,temp6,15301665187.00
-955,Bass1,7,temp7,7201136017.00
-956,Bass2,8,temp8,11701243025.00
-957,Bass3,9,temp9,15301665187.00
-958,Wild1,10,temp10,7201136017.00
-959,Wild2,11,temp11,11701243025.00
-960,Wild3,12,temp12,15301665187.00
-961,Drums1,1,Kick it,8641363220.00
-962,Drums2,2,temp2,14041491630.00
-963,Drums3,3,temp3,18361998224.00
-964,Guitar1,4,temp4,8641363220.00
-965,Guitar2,5,temp5,14041491630.00
-966,Guitar3,6,temp6,18361998224.00
-967,Bass1,7,temp7,8641363220.00
-968,Bass2,8,temp8,14041491630.00
-969,Bass3,9,temp9,18361998224.00
-970,Wild1,10,temp10,8641363220.00
-971,Wild2,11,temp11,14041491630.00
-972,Wild3,12,temp12,18361998224.00
-973,Drums1,1,Kick it,10369635864.00
-974,Drums2,2,temp2,16849789956.00
-975,Drums3,3,temp3,22034397869.00
-976,Guitar1,4,temp4,10369635864.00
-977,Guitar2,5,temp5,16849789956.00
-978,Guitar3,6,temp6,22034397869.00
-979,Bass1,7,temp7,10369635864.00
-980,Bass2,8,temp8,16849789956.00
-981,Bass3,9,temp9,22034397869.00
-982,Wild1,10,temp10,10369635864.00
-983,Wild2,11,temp11,16849789956.00
-984,Wild3,12,temp12,22034397869.00
-985,Drums1,1,Kick it,12443563037.00
-986,Drums2,2,temp2,20219747947.00
-987,Drums3,3,temp3,26441277443.00
-988,Guitar1,4,temp4,12443563037.00
-989,Guitar2,5,temp5,20219747947.00
-990,Guitar3,6,temp6,26441277443.00
-991,Bass1,7,temp7,12443563037.00
-992,Bass2,8,temp8,20219747947.00
-993,Bass3,9,temp9,26441277443.00
-994,Wild1,10,temp10,12443563037.00
-995,Wild2,11,temp11,20219747947.00
-996,Wild3,12,temp12,26441277443.00
+1,Drums1,1,DRUM to get rid of,4000
+2,Drums2,2,"Small Drum, Need out of House",6500
+3,Drums3,3,1975 Drumster Fire *BRAND NEW*,8500
+4,Guitar1,4,Bender '54 (slight damage),4000
+5,Guitar2,5,Full Size Lagoon Guitar Bag,6500
+6,Guitar3,6,Signed Gibby Guitar knob,8500
+7,Bass1,7,Pro Fish Guitar 2023 ,4000
+8,Bass2,8,Refurbished Grand Largemouth,6500
+9,Bass3,9,Used Bass strings (Still in package),8500
+10,Wild1,10,Pre-Used Uptight Baby Grandfather,4000
+11,Wild2,11,Beautiful Echenbach Standing Piano,6500
+12,Wild3,12,Stage 69 Vintage Electric Piano,8500
+13,Drums1,1,DRUM to get rid of,4800
+14,Drums2,2,"Small Drum, Need out of House",7800
+15,Drums3,3,1975 Drumster Fire *BRAND NEW*,10200
+16,Guitar1,4,Bender '54 (slight damage),4800
+17,Guitar2,5,Full Size Lagoon Guitar Bag,7800
+18,Guitar3,6,Signed Gibby Guitar knob,10200
+19,Bass1,7,Pro Fish Guitar 2023 ,4800
+20,Bass2,8,Refurbished Grand Largemouth,7800
+21,Bass3,9,Used Bass strings (Still in package),10200
+22,Wild1,10,Pre-Used Uptight Baby Grandfather,4800
+23,Wild2,11,Beautiful Echenbach Standing Piano,7800
+24,Wild3,12,Stage 69 Vintage Electric Piano,10200
+25,Drums1,1,DRUM to get rid of,5760
+26,Drums2,2,"Small Drum, Need out of House",9360
+27,Drums3,3,1975 Drumster Fire *BRAND NEW*,12240
+28,Guitar1,4,Bender '54 (slight damage),5760
+29,Guitar2,5,Full Size Lagoon Guitar Bag,9360
+30,Guitar3,6,Signed Gibby Guitar knob,12240
+31,Bass1,7,Pro Fish Guitar 2023 ,5760
+32,Bass2,8,Refurbished Grand Largemouth,9360
+33,Bass3,9,Used Bass strings (Still in package),12240
+34,Wild1,10,Pre-Used Uptight Baby Grandfather,5760
+35,Wild2,11,Beautiful Echenbach Standing Piano,9360
+36,Wild3,12,Stage 69 Vintage Electric Piano,12240
+37,Drums1,1,DRUM to get rid of,6912
+38,Drums2,2,"Small Drum, Need out of House",11232
+39,Drums3,3,1975 Drumster Fire *BRAND NEW*,14688
+40,Guitar1,4,Bender '54 (slight damage),6912
+41,Guitar2,5,Full Size Lagoon Guitar Bag,11232
+42,Guitar3,6,Signed Gibby Guitar knob,14688
+43,Bass1,7,Pro Fish Guitar 2023 ,6912
+44,Bass2,8,Refurbished Grand Largemouth,11232
+45,Bass3,9,Used Bass strings (Still in package),14688
+46,Wild1,10,Pre-Used Uptight Baby Grandfather,6912
+47,Wild2,11,Beautiful Echenbach Standing Piano,11232
+48,Wild3,12,Stage 69 Vintage Electric Piano,14688
+49,Drums1,1,DRUM to get rid of,8294
+50,Drums2,2,"Small Drum, Need out of House",13478
+51,Drums3,3,1975 Drumster Fire *BRAND NEW*,17626
+52,Guitar1,4,Bender '54 (slight damage),8294
+53,Guitar2,5,Full Size Lagoon Guitar Bag,13478
+54,Guitar3,6,Signed Gibby Guitar knob,17626
+55,Bass1,7,Pro Fish Guitar 2023 ,8294
+56,Bass2,8,Refurbished Grand Largemouth,13478
+57,Bass3,9,Used Bass strings (Still in package),17626
+58,Wild1,10,Pre-Used Uptight Baby Grandfather,8294
+59,Wild2,11,Beautiful Echenbach Standing Piano,13478
+60,Wild3,12,Stage 69 Vintage Electric Piano,17626
+61,Drums1,1,DRUM to get rid of,9953
+62,Drums2,2,"Small Drum, Need out of House",16174
+63,Drums3,3,1975 Drumster Fire *BRAND NEW*,21151
+64,Guitar1,4,Bender '54 (slight damage),9953
+65,Guitar2,5,Full Size Lagoon Guitar Bag,16174
+66,Guitar3,6,Signed Gibby Guitar knob,21151
+67,Bass1,7,Pro Fish Guitar 2023 ,9953
+68,Bass2,8,Refurbished Grand Largemouth,16174
+69,Bass3,9,Used Bass strings (Still in package),21151
+70,Wild1,10,Pre-Used Uptight Baby Grandfather,9953
+71,Wild2,11,Beautiful Echenbach Standing Piano,16174
+72,Wild3,12,Stage 69 Vintage Electric Piano,21151
+73,Drums1,1,DRUM to get rid of,11944
+74,Drums2,2,"Small Drum, Need out of House",19409
+75,Drums3,3,1975 Drumster Fire *BRAND NEW*,25381
+76,Guitar1,4,Bender '54 (slight damage),11944
+77,Guitar2,5,Full Size Lagoon Guitar Bag,19409
+78,Guitar3,6,Signed Gibby Guitar knob,25381
+79,Bass1,7,Pro Fish Guitar 2023 ,11944
+80,Bass2,8,Refurbished Grand Largemouth,19409
+81,Bass3,9,Used Bass strings (Still in package),25381
+82,Wild1,10,Pre-Used Uptight Baby Grandfather,11944
+83,Wild2,11,Beautiful Echenbach Standing Piano,19409
+84,Wild3,12,Stage 69 Vintage Electric Piano,25381
+85,Drums1,1,DRUM to get rid of,14333
+86,Drums2,2,"Small Drum, Need out of House",23291
+87,Drums3,3,1975 Drumster Fire *BRAND NEW*,30457
+88,Guitar1,4,Bender '54 (slight damage),14333
+89,Guitar2,5,Full Size Lagoon Guitar Bag,23291
+90,Guitar3,6,Signed Gibby Guitar knob,30457
+91,Bass1,7,Pro Fish Guitar 2023 ,14333
+92,Bass2,8,Refurbished Grand Largemouth,23291
+93,Bass3,9,Used Bass strings (Still in package),30457
+94,Wild1,10,Pre-Used Uptight Baby Grandfather,14333
+95,Wild2,11,Beautiful Echenbach Standing Piano,23291
+96,Wild3,12,Stage 69 Vintage Electric Piano,30457
+97,Drums1,1,DRUM to get rid of,17200
+98,Drums2,2,"Small Drum, Need out of House",27949
+99,Drums3,3,1975 Drumster Fire *BRAND NEW*,36548
+100,Guitar1,4,Bender '54 (slight damage),17200
+101,Guitar2,5,Full Size Lagoon Guitar Bag,27949
+102,Guitar3,6,Signed Gibby Guitar knob,36548
+103,Bass1,7,Pro Fish Guitar 2023 ,17200
+104,Bass2,8,Refurbished Grand Largemouth,27949
+105,Bass3,9,Used Bass strings (Still in package),36548
+106,Wild1,10,Pre-Used Uptight Baby Grandfather,17200
+107,Wild2,11,Beautiful Echenbach Standing Piano,27949
+108,Wild3,12,Stage 69 Vintage Electric Piano,36548
+109,Drums1,1,DRUM to get rid of,20640
+110,Drums2,2,"Small Drum, Need out of House",33539
+111,Drums3,3,1975 Drumster Fire *BRAND NEW*,43858
+112,Guitar1,4,Bender '54 (slight damage),20640
+113,Guitar2,5,Full Size Lagoon Guitar Bag,33539
+114,Guitar3,6,Signed Gibby Guitar knob,43858
+115,Bass1,7,Pro Fish Guitar 2023 ,20640
+116,Bass2,8,Refurbished Grand Largemouth,33539
+117,Bass3,9,Used Bass strings (Still in package),43858
+118,Wild1,10,Pre-Used Uptight Baby Grandfather,20640
+119,Wild2,11,Beautiful Echenbach Standing Piano,33539
+120,Wild3,12,Stage 69 Vintage Electric Piano,43858
+121,Drums1,1,DRUM to get rid of,24768
+122,Drums2,2,"Small Drum, Need out of House",40247
+123,Drums3,3,1975 Drumster Fire *BRAND NEW*,52630
+124,Guitar1,4,Bender '54 (slight damage),24768
+125,Guitar2,5,Full Size Lagoon Guitar Bag,40247
+126,Guitar3,6,Signed Gibby Guitar knob,52630
+127,Bass1,7,Pro Fish Guitar 2023 ,24768
+128,Bass2,8,Refurbished Grand Largemouth,40247
+129,Bass3,9,Used Bass strings (Still in package),52630
+130,Wild1,10,Pre-Used Uptight Baby Grandfather,24768
+131,Wild2,11,Beautiful Echenbach Standing Piano,40247
+132,Wild3,12,Stage 69 Vintage Electric Piano,52630
+133,Drums1,1,DRUM to get rid of,29722
+134,Drums2,2,"Small Drum, Need out of House",48296
+135,Drums3,3,1975 Drumster Fire *BRAND NEW*,63156
+136,Guitar1,4,Bender '54 (slight damage),29722
+137,Guitar2,5,Full Size Lagoon Guitar Bag,48296
+138,Guitar3,6,Signed Gibby Guitar knob,63156
+139,Bass1,7,Pro Fish Guitar 2023 ,29722
+140,Bass2,8,Refurbished Grand Largemouth,48296
+141,Bass3,9,Used Bass strings (Still in package),63156
+142,Wild1,10,Pre-Used Uptight Baby Grandfather,29722
+143,Wild2,11,Beautiful Echenbach Standing Piano,48296
+144,Wild3,12,Stage 69 Vintage Electric Piano,63156
+145,Drums1,1,DRUM to get rid of,35666
+146,Drums2,2,"Small Drum, Need out of House",57955
+147,Drums3,3,1975 Drumster Fire *BRAND NEW*,75787
+148,Guitar1,4,Bender '54 (slight damage),35666
+149,Guitar2,5,Full Size Lagoon Guitar Bag,57955
+150,Guitar3,6,Signed Gibby Guitar knob,75787
+151,Bass1,7,Pro Fish Guitar 2023 ,35666
+152,Bass2,8,Refurbished Grand Largemouth,57955
+153,Bass3,9,Used Bass strings (Still in package),75787
+154,Wild1,10,Pre-Used Uptight Baby Grandfather,35666
+155,Wild2,11,Beautiful Echenbach Standing Piano,57955
+156,Wild3,12,Stage 69 Vintage Electric Piano,75787
+157,Drums1,1,DRUM to get rid of,42799
+158,Drums2,2,"Small Drum, Need out of House",69546
+159,Drums3,3,1975 Drumster Fire *BRAND NEW*,90944
+160,Guitar1,4,Bender '54 (slight damage),42799
+161,Guitar2,5,Full Size Lagoon Guitar Bag,69546
+162,Guitar3,6,Signed Gibby Guitar knob,90944
+163,Bass1,7,Pro Fish Guitar 2023 ,42799
+164,Bass2,8,Refurbished Grand Largemouth,69546
+165,Bass3,9,Used Bass strings (Still in package),90944
+166,Wild1,10,Pre-Used Uptight Baby Grandfather,42799
+167,Wild2,11,Beautiful Echenbach Standing Piano,69546
+168,Wild3,12,Stage 69 Vintage Electric Piano,90944
+169,Drums1,1,DRUM to get rid of,51359
+170,Drums2,2,"Small Drum, Need out of House",83455
+171,Drums3,3,1975 Drumster Fire *BRAND NEW*,109133
+172,Guitar1,4,Bender '54 (slight damage),51359
+173,Guitar2,5,Full Size Lagoon Guitar Bag,83455
+174,Guitar3,6,Signed Gibby Guitar knob,109133
+175,Bass1,7,Pro Fish Guitar 2023 ,51359
+176,Bass2,8,Refurbished Grand Largemouth,83455
+177,Bass3,9,Used Bass strings (Still in package),109133
+178,Wild1,10,Pre-Used Uptight Baby Grandfather,51359
+179,Wild2,11,Beautiful Echenbach Standing Piano,83455
+180,Wild3,12,Stage 69 Vintage Electric Piano,109133
+181,Drums1,1,DRUM to get rid of,61631
+182,Drums2,2,"Small Drum, Need out of House",100146
+183,Drums3,3,1975 Drumster Fire *BRAND NEW*,130960
+184,Guitar1,4,Bender '54 (slight damage),61631
+185,Guitar2,5,Full Size Lagoon Guitar Bag,100146
+186,Guitar3,6,Signed Gibby Guitar knob,130960
+187,Bass1,7,Pro Fish Guitar 2023 ,61631
+188,Bass2,8,Refurbished Grand Largemouth,100146
+189,Bass3,9,Used Bass strings (Still in package),130960
+190,Wild1,10,Pre-Used Uptight Baby Grandfather,61631
+191,Wild2,11,Beautiful Echenbach Standing Piano,100146
+192,Wild3,12,Stage 69 Vintage Electric Piano,130960
+193,Drums1,1,DRUM to get rid of,73957
+194,Drums2,2,"Small Drum, Need out of House",120175
+195,Drums3,3,1975 Drumster Fire *BRAND NEW*,157152
+196,Guitar1,4,Bender '54 (slight damage),73957
+197,Guitar2,5,Full Size Lagoon Guitar Bag,120175
+198,Guitar3,6,Signed Gibby Guitar knob,157152
+199,Bass1,7,Pro Fish Guitar 2023 ,73957
+200,Bass2,8,Refurbished Grand Largemouth,120175
+201,Bass3,9,Used Bass strings (Still in package),157152
+202,Wild1,10,Pre-Used Uptight Baby Grandfather,73957
+203,Wild2,11,Beautiful Echenbach Standing Piano,120175
+204,Wild3,12,Stage 69 Vintage Electric Piano,157152
+205,Drums1,1,DRUM to get rid of,88748
+206,Drums2,2,"Small Drum, Need out of House",144210
+207,Drums3,3,1975 Drumster Fire *BRAND NEW*,188582
+208,Guitar1,4,Bender '54 (slight damage),88748
+209,Guitar2,5,Full Size Lagoon Guitar Bag,144210
+210,Guitar3,6,Signed Gibby Guitar knob,188582
+211,Bass1,7,Pro Fish Guitar 2023 ,88748
+212,Bass2,8,Refurbished Grand Largemouth,144210
+213,Bass3,9,Used Bass strings (Still in package),188582
+214,Wild1,10,Pre-Used Uptight Baby Grandfather,88748
+215,Wild2,11,Beautiful Echenbach Standing Piano,144210
+216,Wild3,12,Stage 69 Vintage Electric Piano,188582
+217,Drums1,1,DRUM to get rid of,106498
+218,Drums2,2,"Small Drum, Need out of House",173052
+219,Drums3,3,1975 Drumster Fire *BRAND NEW*,226298
+220,Guitar1,4,Bender '54 (slight damage),106498
+221,Guitar2,5,Full Size Lagoon Guitar Bag,173052
+222,Guitar3,6,Signed Gibby Guitar knob,226298
+223,Bass1,7,Pro Fish Guitar 2023 ,106498
+224,Bass2,8,Refurbished Grand Largemouth,173052
+225,Bass3,9,Used Bass strings (Still in package),226298
+226,Wild1,10,Pre-Used Uptight Baby Grandfather,106498
+227,Wild2,11,Beautiful Echenbach Standing Piano,173052
+228,Wild3,12,Stage 69 Vintage Electric Piano,226298
+229,Drums1,1,DRUM to get rid of,127798
+230,Drums2,2,"Small Drum, Need out of House",207662
+231,Drums3,3,1975 Drumster Fire *BRAND NEW*,271558
+232,Guitar1,4,Bender '54 (slight damage),127798
+233,Guitar2,5,Full Size Lagoon Guitar Bag,207662
+234,Guitar3,6,Signed Gibby Guitar knob,271558
+235,Bass1,7,Pro Fish Guitar 2023 ,127798
+236,Bass2,8,Refurbished Grand Largemouth,207662
+237,Bass3,9,Used Bass strings (Still in package),271558
+238,Wild1,10,Pre-Used Uptight Baby Grandfather,127798
+239,Wild2,11,Beautiful Echenbach Standing Piano,207662
+240,Wild3,12,Stage 69 Vintage Electric Piano,271558
+241,Drums1,1,DRUM to get rid of,153358
+242,Drums2,2,"Small Drum, Need out of House",249194
+243,Drums3,3,1975 Drumster Fire *BRAND NEW*,325870
+244,Guitar1,4,Bender '54 (slight damage),153358
+245,Guitar2,5,Full Size Lagoon Guitar Bag,249194
+246,Guitar3,6,Signed Gibby Guitar knob,325870
+247,Bass1,7,Pro Fish Guitar 2023 ,153358
+248,Bass2,8,Refurbished Grand Largemouth,249194
+249,Bass3,9,Used Bass strings (Still in package),325870
+250,Wild1,10,Pre-Used Uptight Baby Grandfather,153358
+251,Wild2,11,Beautiful Echenbach Standing Piano,249194
+252,Wild3,12,Stage 69 Vintage Electric Piano,325870
+253,Drums1,1,DRUM to get rid of,184030
+254,Drums2,2,"Small Drum, Need out of House",299033
+255,Drums3,3,1975 Drumster Fire *BRAND NEW*,391044
+256,Guitar1,4,Bender '54 (slight damage),184030
+257,Guitar2,5,Full Size Lagoon Guitar Bag,299033
+258,Guitar3,6,Signed Gibby Guitar knob,391044
+259,Bass1,7,Pro Fish Guitar 2023 ,184030
+260,Bass2,8,Refurbished Grand Largemouth,299033
+261,Bass3,9,Used Bass strings (Still in package),391044
+262,Wild1,10,Pre-Used Uptight Baby Grandfather,184030
+263,Wild2,11,Beautiful Echenbach Standing Piano,299033
+264,Wild3,12,Stage 69 Vintage Electric Piano,391044
+265,Drums1,1,DRUM to get rid of,220836
+266,Drums2,2,"Small Drum, Need out of House",358840
+267,Drums3,3,1975 Drumster Fire *BRAND NEW*,469253
+268,Guitar1,4,Bender '54 (slight damage),220836
+269,Guitar2,5,Full Size Lagoon Guitar Bag,358840
+270,Guitar3,6,Signed Gibby Guitar knob,469253
+271,Bass1,7,Pro Fish Guitar 2023 ,220836
+272,Bass2,8,Refurbished Grand Largemouth,358840
+273,Bass3,9,Used Bass strings (Still in package),469253
+274,Wild1,10,Pre-Used Uptight Baby Grandfather,220836
+275,Wild2,11,Beautiful Echenbach Standing Piano,358840
+276,Wild3,12,Stage 69 Vintage Electric Piano,469253
+277,Drums1,1,DRUM to get rid of,265003
+278,Drums2,2,"Small Drum, Need out of House",430608
+279,Drums3,3,1975 Drumster Fire *BRAND NEW*,563104
+280,Guitar1,4,Bender '54 (slight damage),265003
+281,Guitar2,5,Full Size Lagoon Guitar Bag,430608
+282,Guitar3,6,Signed Gibby Guitar knob,563104
+283,Bass1,7,Pro Fish Guitar 2023 ,265003
+284,Bass2,8,Refurbished Grand Largemouth,430608
+285,Bass3,9,Used Bass strings (Still in package),563104
+286,Wild1,10,Pre-Used Uptight Baby Grandfather,265003
+287,Wild2,11,Beautiful Echenbach Standing Piano,430608
+288,Wild3,12,Stage 69 Vintage Electric Piano,563104
+289,Drums1,1,DRUM to get rid of,318004
+290,Drums2,2,"Small Drum, Need out of House",516730
+291,Drums3,3,1975 Drumster Fire *BRAND NEW*,675725
+292,Guitar1,4,Bender '54 (slight damage),318004
+293,Guitar2,5,Full Size Lagoon Guitar Bag,516730
+294,Guitar3,6,Signed Gibby Guitar knob,675725
+295,Bass1,7,Pro Fish Guitar 2023 ,318004
+296,Bass2,8,Refurbished Grand Largemouth,516730
+297,Bass3,9,Used Bass strings (Still in package),675725
+298,Wild1,10,Pre-Used Uptight Baby Grandfather,318004
+299,Wild2,11,Beautiful Echenbach Standing Piano,516730
+300,Wild3,12,Stage 69 Vintage Electric Piano,675725
+301,Drums1,1,DRUM to get rid of,381605
+302,Drums2,2,"Small Drum, Need out of House",620076
+303,Drums3,3,1975 Drumster Fire *BRAND NEW*,810870
+304,Guitar1,4,Bender '54 (slight damage),381605
+305,Guitar2,5,Full Size Lagoon Guitar Bag,620076
+306,Guitar3,6,Signed Gibby Guitar knob,810870
+307,Bass1,7,Pro Fish Guitar 2023 ,381605
+308,Bass2,8,Refurbished Grand Largemouth,620076
+309,Bass3,9,Used Bass strings (Still in package),810870
+310,Wild1,10,Pre-Used Uptight Baby Grandfather,381605
+311,Wild2,11,Beautiful Echenbach Standing Piano,620076
+312,Wild3,12,Stage 69 Vintage Electric Piano,810870
+313,Drums1,1,DRUM to get rid of,457926
+314,Drums2,2,"Small Drum, Need out of House",744091
+315,Drums3,3,1975 Drumster Fire *BRAND NEW*,973044
+316,Guitar1,4,Bender '54 (slight damage),457926
+317,Guitar2,5,Full Size Lagoon Guitar Bag,744091
+318,Guitar3,6,Signed Gibby Guitar knob,973044
+319,Bass1,7,Pro Fish Guitar 2023 ,457926
+320,Bass2,8,Refurbished Grand Largemouth,744091
+321,Bass3,9,Used Bass strings (Still in package),973044
+322,Wild1,10,Pre-Used Uptight Baby Grandfather,457926
+323,Wild2,11,Beautiful Echenbach Standing Piano,744091
+324,Wild3,12,Stage 69 Vintage Electric Piano,973044
+325,Drums1,1,DRUM to get rid of,549511
+326,Drums2,2,"Small Drum, Need out of House",892909
+327,Drums3,3,1975 Drumster Fire *BRAND NEW*,1167653
+328,Guitar1,4,Bender '54 (slight damage),549511
+329,Guitar2,5,Full Size Lagoon Guitar Bag,892909
+330,Guitar3,6,Signed Gibby Guitar knob,1167653
+331,Bass1,7,Pro Fish Guitar 2023 ,549511
+332,Bass2,8,Refurbished Grand Largemouth,892909
+333,Bass3,9,Used Bass strings (Still in package),1167653
+334,Wild1,10,Pre-Used Uptight Baby Grandfather,549511
+335,Wild2,11,Beautiful Echenbach Standing Piano,892909
+336,Wild3,12,Stage 69 Vintage Electric Piano,1167653
+337,Drums1,1,DRUM to get rid of,659413
+338,Drums2,2,"Small Drum, Need out of House",1071491
+339,Drums3,3,1975 Drumster Fire *BRAND NEW*,1401184
+340,Guitar1,4,Bender '54 (slight damage),659413
+341,Guitar2,5,Full Size Lagoon Guitar Bag,1071491
+342,Guitar3,6,Signed Gibby Guitar knob,1401184
+343,Bass1,7,Pro Fish Guitar 2023 ,659413
+344,Bass2,8,Refurbished Grand Largemouth,1071491
+345,Bass3,9,Used Bass strings (Still in package),1401184
+346,Wild1,10,Pre-Used Uptight Baby Grandfather,659413
+347,Wild2,11,Beautiful Echenbach Standing Piano,1071491
+348,Wild3,12,Stage 69 Vintage Electric Piano,1401184
+349,Drums1,1,DRUM to get rid of,791296
+350,Drums2,2,"Small Drum, Need out of House",1285789
+351,Drums3,3,1975 Drumster Fire *BRAND NEW*,1681421
+352,Guitar1,4,Bender '54 (slight damage),791296
+353,Guitar2,5,Full Size Lagoon Guitar Bag,1285789
+354,Guitar3,6,Signed Gibby Guitar knob,1681421
+355,Bass1,7,Pro Fish Guitar 2023 ,791296
+356,Bass2,8,Refurbished Grand Largemouth,1285789
+357,Bass3,9,Used Bass strings (Still in package),1681421
+358,Wild1,10,Pre-Used Uptight Baby Grandfather,791296
+359,Wild2,11,Beautiful Echenbach Standing Piano,1285789
+360,Wild3,12,Stage 69 Vintage Electric Piano,1681421
+361,Drums1,1,DRUM to get rid of,949555
+362,Drums2,2,"Small Drum, Need out of House",1542947
+363,Drums3,3,1975 Drumster Fire *BRAND NEW*,2017705
+364,Guitar1,4,Bender '54 (slight damage),949555
+365,Guitar2,5,Full Size Lagoon Guitar Bag,1542947
+366,Guitar3,6,Signed Gibby Guitar knob,2017705
+367,Bass1,7,Pro Fish Guitar 2023 ,949555
+368,Bass2,8,Refurbished Grand Largemouth,1542947
+369,Bass3,9,Used Bass strings (Still in package),2017705
+370,Wild1,10,Pre-Used Uptight Baby Grandfather,949555
+371,Wild2,11,Beautiful Echenbach Standing Piano,1542947
+372,Wild3,12,Stage 69 Vintage Electric Piano,2017705
+373,Drums1,1,DRUM to get rid of,1139466
+374,Drums2,2,"Small Drum, Need out of House",1851536
+375,Drums3,3,1975 Drumster Fire *BRAND NEW*,2421246
+376,Guitar1,4,Bender '54 (slight damage),1139466
+377,Guitar2,5,Full Size Lagoon Guitar Bag,1851536
+378,Guitar3,6,Signed Gibby Guitar knob,2421246
+379,Bass1,7,Pro Fish Guitar 2023 ,1139466
+380,Bass2,8,Refurbished Grand Largemouth,1851536
+381,Bass3,9,Used Bass strings (Still in package),2421246
+382,Wild1,10,Pre-Used Uptight Baby Grandfather,1139466
+383,Wild2,11,Beautiful Echenbach Standing Piano,1851536
+384,Wild3,12,Stage 69 Vintage Electric Piano,2421246
+385,Drums1,1,DRUM to get rid of,1367359
+386,Drums2,2,"Small Drum, Need out of House",2221843
+387,Drums3,3,1975 Drumster Fire *BRAND NEW*,2905495
+388,Guitar1,4,Bender '54 (slight damage),1367359
+389,Guitar2,5,Full Size Lagoon Guitar Bag,2221843
+390,Guitar3,6,Signed Gibby Guitar knob,2905495
+391,Bass1,7,Pro Fish Guitar 2023 ,1367359
+392,Bass2,8,Refurbished Grand Largemouth,2221843
+393,Bass3,9,Used Bass strings (Still in package),2905495
+394,Wild1,10,Pre-Used Uptight Baby Grandfather,1367359
+395,Wild2,11,Beautiful Echenbach Standing Piano,2221843
+396,Wild3,12,Stage 69 Vintage Electric Piano,2905495
+397,Drums1,1,DRUM to get rid of,1640831
+398,Drums2,2,"Small Drum, Need out of House",2666212
+399,Drums3,3,1975 Drumster Fire *BRAND NEW*,3486594
+400,Guitar1,4,Bender '54 (slight damage),1640831
+401,Guitar2,5,Full Size Lagoon Guitar Bag,2666212
+402,Guitar3,6,Signed Gibby Guitar knob,3486594
+403,Bass1,7,Pro Fish Guitar 2023 ,1640831
+404,Bass2,8,Refurbished Grand Largemouth,2666212
+405,Bass3,9,Used Bass strings (Still in package),3486594
+406,Wild1,10,Pre-Used Uptight Baby Grandfather,1640831
+407,Wild2,11,Beautiful Echenbach Standing Piano,2666212
+408,Wild3,12,Stage 69 Vintage Electric Piano,3486594
+409,Drums1,1,DRUM to get rid of,1968997
+410,Drums2,2,"Small Drum, Need out of House",3199454
+411,Drums3,3,1975 Drumster Fire *BRAND NEW*,4183913
+412,Guitar1,4,Bender '54 (slight damage),1968997
+413,Guitar2,5,Full Size Lagoon Guitar Bag,3199454
+414,Guitar3,6,Signed Gibby Guitar knob,4183913
+415,Bass1,7,Pro Fish Guitar 2023 ,1968997
+416,Bass2,8,Refurbished Grand Largemouth,3199454
+417,Bass3,9,Used Bass strings (Still in package),4183913
+418,Wild1,10,Pre-Used Uptight Baby Grandfather,1968997
+419,Wild2,11,Beautiful Echenbach Standing Piano,3199454
+420,Wild3,12,Stage 69 Vintage Electric Piano,4183913
+421,Drums1,1,DRUM to get rid of,2362796
+422,Drums2,2,"Small Drum, Need out of House",3839345
+423,Drums3,3,1975 Drumster Fire *BRAND NEW*,5020696
+424,Guitar1,4,Bender '54 (slight damage),2362796
+425,Guitar2,5,Full Size Lagoon Guitar Bag,3839345
+426,Guitar3,6,Signed Gibby Guitar knob,5020696
+427,Bass1,7,Pro Fish Guitar 2023 ,2362796
+428,Bass2,8,Refurbished Grand Largemouth,3839345
+429,Bass3,9,Used Bass strings (Still in package),5020696
+430,Wild1,10,Pre-Used Uptight Baby Grandfather,2362796
+431,Wild2,11,Beautiful Echenbach Standing Piano,3839345
+432,Wild3,12,Stage 69 Vintage Electric Piano,5020696
+433,Drums1,1,DRUM to get rid of,2835355
+434,Drums2,2,"Small Drum, Need out of House",4607214
+435,Drums3,3,1975 Drumster Fire *BRAND NEW*,6024835
+436,Guitar1,4,Bender '54 (slight damage),2835355
+437,Guitar2,5,Full Size Lagoon Guitar Bag,4607214
+438,Guitar3,6,Signed Gibby Guitar knob,6024835
+439,Bass1,7,Pro Fish Guitar 2023 ,2835355
+440,Bass2,8,Refurbished Grand Largemouth,4607214
+441,Bass3,9,Used Bass strings (Still in package),6024835
+442,Wild1,10,Pre-Used Uptight Baby Grandfather,2835355
+443,Wild2,11,Beautiful Echenbach Standing Piano,4607214
+444,Wild3,12,Stage 69 Vintage Electric Piano,6024835
+445,Drums1,1,DRUM to get rid of,3402426
+446,Drums2,2,"Small Drum, Need out of House",5528657
+447,Drums3,3,1975 Drumster Fire *BRAND NEW*,7229802
+448,Guitar1,4,Bender '54 (slight damage),3402426
+449,Guitar2,5,Full Size Lagoon Guitar Bag,5528657
+450,Guitar3,6,Signed Gibby Guitar knob,7229802
+451,Bass1,7,Pro Fish Guitar 2023 ,3402426
+452,Bass2,8,Refurbished Grand Largemouth,5528657
+453,Bass3,9,Used Bass strings (Still in package),7229802
+454,Wild1,10,Pre-Used Uptight Baby Grandfather,3402426
+455,Wild2,11,Beautiful Echenbach Standing Piano,5528657
+456,Wild3,12,Stage 69 Vintage Electric Piano,7229802
+457,Drums1,1,DRUM to get rid of,4082911
+458,Drums2,2,"Small Drum, Need out of House",6634388
+459,Drums3,3,1975 Drumster Fire *BRAND NEW*,8675762
+460,Guitar1,4,Bender '54 (slight damage),4082911
+461,Guitar2,5,Full Size Lagoon Guitar Bag,6634388
+462,Guitar3,6,Signed Gibby Guitar knob,8675762
+463,Bass1,7,Pro Fish Guitar 2023 ,4082911
+464,Bass2,8,Refurbished Grand Largemouth,6634388
+465,Bass3,9,Used Bass strings (Still in package),8675762
+466,Wild1,10,Pre-Used Uptight Baby Grandfather,4082911
+467,Wild2,11,Beautiful Echenbach Standing Piano,6634388
+468,Wild3,12,Stage 69 Vintage Electric Piano,8675762
+469,Drums1,1,DRUM to get rid of,4899493
+470,Drums2,2,"Small Drum, Need out of House",7961266
+471,Drums3,3,1975 Drumster Fire *BRAND NEW*,10410914
+472,Guitar1,4,Bender '54 (slight damage),4899493
+473,Guitar2,5,Full Size Lagoon Guitar Bag,7961266
+474,Guitar3,6,Signed Gibby Guitar knob,10410914
+475,Bass1,7,Pro Fish Guitar 2023 ,4899493
+476,Bass2,8,Refurbished Grand Largemouth,7961266
+477,Bass3,9,Used Bass strings (Still in package),10410914
+478,Wild1,10,Pre-Used Uptight Baby Grandfather,4899493
+479,Wild2,11,Beautiful Echenbach Standing Piano,7961266
+480,Wild3,12,Stage 69 Vintage Electric Piano,10410914
+481,Drums1,1,DRUM to get rid of,5879392
+482,Drums2,2,"Small Drum, Need out of House",9553519
+483,Drums3,3,1975 Drumster Fire *BRAND NEW*,12493097
+484,Guitar1,4,Bender '54 (slight damage),5879392
+485,Guitar2,5,Full Size Lagoon Guitar Bag,9553519
+486,Guitar3,6,Signed Gibby Guitar knob,12493097
+487,Bass1,7,Pro Fish Guitar 2023 ,5879392
+488,Bass2,8,Refurbished Grand Largemouth,9553519
+489,Bass3,9,Used Bass strings (Still in package),12493097
+490,Wild1,10,Pre-Used Uptight Baby Grandfather,5879392
+491,Wild2,11,Beautiful Echenbach Standing Piano,9553519
+492,Wild3,12,Stage 69 Vintage Electric Piano,12493097
+493,Drums1,1,DRUM to get rid of,7055270
+494,Drums2,2,"Small Drum, Need out of House",11464223
+495,Drums3,3,1975 Drumster Fire *BRAND NEW*,14991716
+496,Guitar1,4,Bender '54 (slight damage),7055270
+497,Guitar2,5,Full Size Lagoon Guitar Bag,11464223
+498,Guitar3,6,Signed Gibby Guitar knob,14991716
+499,Bass1,7,Pro Fish Guitar 2023 ,7055270
+500,Bass2,8,Refurbished Grand Largemouth,11464223
+501,Bass3,9,Used Bass strings (Still in package),14991716
+502,Wild1,10,Pre-Used Uptight Baby Grandfather,7055270
+503,Wild2,11,Beautiful Echenbach Standing Piano,11464223
+504,Wild3,12,Stage 69 Vintage Electric Piano,14991716
+505,Drums1,1,DRUM to get rid of,8466324
+506,Drums2,2,"Small Drum, Need out of House",13757068
+507,Drums3,3,1975 Drumster Fire *BRAND NEW*,17990059
+508,Guitar1,4,Bender '54 (slight damage),8466324
+509,Guitar2,5,Full Size Lagoon Guitar Bag,13757068
+510,Guitar3,6,Signed Gibby Guitar knob,17990059
+511,Bass1,7,Pro Fish Guitar 2023 ,8466324
+512,Bass2,8,Refurbished Grand Largemouth,13757068
+513,Bass3,9,Used Bass strings (Still in package),17990059
+514,Wild1,10,Pre-Used Uptight Baby Grandfather,8466324
+515,Wild2,11,Beautiful Echenbach Standing Piano,13757068
+516,Wild3,12,Stage 69 Vintage Electric Piano,17990059
+517,Drums1,1,DRUM to get rid of,10159589
+518,Drums2,2,"Small Drum, Need out of House",16508482
+519,Drums3,3,1975 Drumster Fire *BRAND NEW*,21588071
+520,Guitar1,4,Bender '54 (slight damage),10159589
+521,Guitar2,5,Full Size Lagoon Guitar Bag,16508482
+522,Guitar3,6,Signed Gibby Guitar knob,21588071
+523,Bass1,7,Pro Fish Guitar 2023 ,10159589
+524,Bass2,8,Refurbished Grand Largemouth,16508482
+525,Bass3,9,Used Bass strings (Still in package),21588071
+526,Wild1,10,Pre-Used Uptight Baby Grandfather,10159589
+527,Wild2,11,Beautiful Echenbach Standing Piano,16508482
+528,Wild3,12,Stage 69 Vintage Electric Piano,21588071
+529,Drums1,1,DRUM to get rid of,12191507
+530,Drums2,2,"Small Drum, Need out of House",19810178
+531,Drums3,3,1975 Drumster Fire *BRAND NEW*,25905685
+532,Guitar1,4,Bender '54 (slight damage),12191507
+533,Guitar2,5,Full Size Lagoon Guitar Bag,19810178
+534,Guitar3,6,Signed Gibby Guitar knob,25905685
+535,Bass1,7,Pro Fish Guitar 2023 ,12191507
+536,Bass2,8,Refurbished Grand Largemouth,19810178
+537,Bass3,9,Used Bass strings (Still in package),25905685
+538,Wild1,10,Pre-Used Uptight Baby Grandfather,12191507
+539,Wild2,11,Beautiful Echenbach Standing Piano,19810178
+540,Wild3,12,Stage 69 Vintage Electric Piano,25905685
+541,Drums1,1,DRUM to get rid of,14629808
+542,Drums2,2,"Small Drum, Need out of House",23772214
+543,Drums3,3,1975 Drumster Fire *BRAND NEW*,31086822
+544,Guitar1,4,Bender '54 (slight damage),14629808
+545,Guitar2,5,Full Size Lagoon Guitar Bag,23772214
+546,Guitar3,6,Signed Gibby Guitar knob,31086822
+547,Bass1,7,Pro Fish Guitar 2023 ,14629808
+548,Bass2,8,Refurbished Grand Largemouth,23772214
+549,Bass3,9,Used Bass strings (Still in package),31086822
+550,Wild1,10,Pre-Used Uptight Baby Grandfather,14629808
+551,Wild2,11,Beautiful Echenbach Standing Piano,23772214
+552,Wild3,12,Stage 69 Vintage Electric Piano,31086822
+553,Drums1,1,DRUM to get rid of,17555770
+554,Drums2,2,"Small Drum, Need out of House",28526657
+555,Drums3,3,1975 Drumster Fire *BRAND NEW*,37304186
+556,Guitar1,4,Bender '54 (slight damage),17555770
+557,Guitar2,5,Full Size Lagoon Guitar Bag,28526657
+558,Guitar3,6,Signed Gibby Guitar knob,37304186
+559,Bass1,7,Pro Fish Guitar 2023 ,17555770
+560,Bass2,8,Refurbished Grand Largemouth,28526657
+561,Bass3,9,Used Bass strings (Still in package),37304186
+562,Wild1,10,Pre-Used Uptight Baby Grandfather,17555770
+563,Wild2,11,Beautiful Echenbach Standing Piano,28526657
+564,Wild3,12,Stage 69 Vintage Electric Piano,37304186
+565,Drums1,1,DRUM to get rid of,21066924
+566,Drums2,2,"Small Drum, Need out of House",34231988
+567,Drums3,3,1975 Drumster Fire *BRAND NEW*,44765023
+568,Guitar1,4,Bender '54 (slight damage),21066924
+569,Guitar2,5,Full Size Lagoon Guitar Bag,34231988
+570,Guitar3,6,Signed Gibby Guitar knob,44765023
+571,Bass1,7,Pro Fish Guitar 2023 ,21066924
+572,Bass2,8,Refurbished Grand Largemouth,34231988
+573,Bass3,9,Used Bass strings (Still in package),44765023
+574,Wild1,10,Pre-Used Uptight Baby Grandfather,21066924
+575,Wild2,11,Beautiful Echenbach Standing Piano,34231988
+576,Wild3,12,Stage 69 Vintage Electric Piano,44765023
+577,Drums1,1,DRUM to get rid of,25280309
+578,Drums2,2,"Small Drum, Need out of House",41078386
+579,Drums3,3,1975 Drumster Fire *BRAND NEW*,53718028
+580,Guitar1,4,Bender '54 (slight damage),25280309
+581,Guitar2,5,Full Size Lagoon Guitar Bag,41078386
+582,Guitar3,6,Signed Gibby Guitar knob,53718028
+583,Bass1,7,Pro Fish Guitar 2023 ,25280309
+584,Bass2,8,Refurbished Grand Largemouth,41078386
+585,Bass3,9,Used Bass strings (Still in package),53718028
+586,Wild1,10,Pre-Used Uptight Baby Grandfather,25280309
+587,Wild2,11,Beautiful Echenbach Standing Piano,41078386
+588,Wild3,12,Stage 69 Vintage Electric Piano,53718028
+589,Drums1,1,DRUM to get rid of,30336371
+590,Drums2,2,"Small Drum, Need out of House",49294063
+591,Drums3,3,1975 Drumster Fire *BRAND NEW*,64461634
+592,Guitar1,4,Bender '54 (slight damage),30336371
+593,Guitar2,5,Full Size Lagoon Guitar Bag,49294063
+594,Guitar3,6,Signed Gibby Guitar knob,64461634
+595,Bass1,7,Pro Fish Guitar 2023 ,30336371
+596,Bass2,8,Refurbished Grand Largemouth,49294063
+597,Bass3,9,Used Bass strings (Still in package),64461634
+598,Wild1,10,Pre-Used Uptight Baby Grandfather,30336371
+599,Wild2,11,Beautiful Echenbach Standing Piano,49294063
+600,Wild3,12,Stage 69 Vintage Electric Piano,64461634
+601,Drums1,1,DRUM to get rid of,36403645
+602,Drums2,2,"Small Drum, Need out of House",59152876
+603,Drums3,3,1975 Drumster Fire *BRAND NEW*,77353961
+604,Guitar1,4,Bender '54 (slight damage),36403645
+605,Guitar2,5,Full Size Lagoon Guitar Bag,59152876
+606,Guitar3,6,Signed Gibby Guitar knob,77353961
+607,Bass1,7,Pro Fish Guitar 2023 ,36403645
+608,Bass2,8,Refurbished Grand Largemouth,59152876
+609,Bass3,9,Used Bass strings (Still in package),77353961
+610,Wild1,10,Pre-Used Uptight Baby Grandfather,36403645
+611,Wild2,11,Beautiful Echenbach Standing Piano,59152876
+612,Wild3,12,Stage 69 Vintage Electric Piano,77353961
+613,Drums1,1,DRUM to get rid of,43684374
+614,Drums2,2,"Small Drum, Need out of House",70983451
+615,Drums3,3,1975 Drumster Fire *BRAND NEW*,92824753
+616,Guitar1,4,Bender '54 (slight damage),43684374
+617,Guitar2,5,Full Size Lagoon Guitar Bag,70983451
+618,Guitar3,6,Signed Gibby Guitar knob,92824753
+619,Bass1,7,Pro Fish Guitar 2023 ,43684374
+620,Bass2,8,Refurbished Grand Largemouth,70983451
+621,Bass3,9,Used Bass strings (Still in package),92824753
+622,Wild1,10,Pre-Used Uptight Baby Grandfather,43684374
+623,Wild2,11,Beautiful Echenbach Standing Piano,70983451
+624,Wild3,12,Stage 69 Vintage Electric Piano,92824753
+625,Drums1,1,DRUM to get rid of,52421249
+626,Drums2,2,"Small Drum, Need out of House",85180141
+627,Drums3,3,1975 Drumster Fire *BRAND NEW*,111389704
+628,Guitar1,4,Bender '54 (slight damage),52421249
+629,Guitar2,5,Full Size Lagoon Guitar Bag,85180141
+630,Guitar3,6,Signed Gibby Guitar knob,111389704
+631,Bass1,7,Pro Fish Guitar 2023 ,52421249
+632,Bass2,8,Refurbished Grand Largemouth,85180141
+633,Bass3,9,Used Bass strings (Still in package),111389704
+634,Wild1,10,Pre-Used Uptight Baby Grandfather,52421249
+635,Wild2,11,Beautiful Echenbach Standing Piano,85180141
+636,Wild3,12,Stage 69 Vintage Electric Piano,111389704
+637,Drums1,1,DRUM to get rid of,62905499
+638,Drums2,2,"Small Drum, Need out of House",102216169
+639,Drums3,3,1975 Drumster Fire *BRAND NEW*,133667645
+640,Guitar1,4,Bender '54 (slight damage),62905499
+641,Guitar2,5,Full Size Lagoon Guitar Bag,102216169
+642,Guitar3,6,Signed Gibby Guitar knob,133667645
+643,Bass1,7,Pro Fish Guitar 2023 ,62905499
+644,Bass2,8,Refurbished Grand Largemouth,102216169
+645,Bass3,9,Used Bass strings (Still in package),133667645
+646,Wild1,10,Pre-Used Uptight Baby Grandfather,62905499
+647,Wild2,11,Beautiful Echenbach Standing Piano,102216169
+648,Wild3,12,Stage 69 Vintage Electric Piano,133667645
+649,Drums1,1,DRUM to get rid of,75486599
+650,Drums2,2,"Small Drum, Need out of House",122659403
+651,Drums3,3,1975 Drumster Fire *BRAND NEW*,160401174
+652,Guitar1,4,Bender '54 (slight damage),75486599
+653,Guitar2,5,Full Size Lagoon Guitar Bag,122659403
+654,Guitar3,6,Signed Gibby Guitar knob,160401174
+655,Bass1,7,Pro Fish Guitar 2023 ,75486599
+656,Bass2,8,Refurbished Grand Largemouth,122659403
+657,Bass3,9,Used Bass strings (Still in package),160401174
+658,Wild1,10,Pre-Used Uptight Baby Grandfather,75486599
+659,Wild2,11,Beautiful Echenbach Standing Piano,122659403
+660,Wild3,12,Stage 69 Vintage Electric Piano,160401174
+661,Drums1,1,DRUM to get rid of,90583919
+662,Drums2,2,"Small Drum, Need out of House",147191284
+663,Drums3,3,1975 Drumster Fire *BRAND NEW*,192481409
+664,Guitar1,4,Bender '54 (slight damage),90583919
+665,Guitar2,5,Full Size Lagoon Guitar Bag,147191284
+666,Guitar3,6,Signed Gibby Guitar knob,192481409
+667,Bass1,7,Pro Fish Guitar 2023 ,90583919
+668,Bass2,8,Refurbished Grand Largemouth,147191284
+669,Bass3,9,Used Bass strings (Still in package),192481409
+670,Wild1,10,Pre-Used Uptight Baby Grandfather,90583919
+671,Wild2,11,Beautiful Echenbach Standing Piano,147191284
+672,Wild3,12,Stage 69 Vintage Electric Piano,192481409
+673,Drums1,1,DRUM to get rid of,108700703
+674,Drums2,2,"Small Drum, Need out of House",176629541
+675,Drums3,3,1975 Drumster Fire *BRAND NEW*,230977691
+676,Guitar1,4,Bender '54 (slight damage),108700703
+677,Guitar2,5,Full Size Lagoon Guitar Bag,176629541
+678,Guitar3,6,Signed Gibby Guitar knob,230977691
+679,Bass1,7,Pro Fish Guitar 2023 ,108700703
+680,Bass2,8,Refurbished Grand Largemouth,176629541
+681,Bass3,9,Used Bass strings (Still in package),230977691
+682,Wild1,10,Pre-Used Uptight Baby Grandfather,108700703
+683,Wild2,11,Beautiful Echenbach Standing Piano,176629541
+684,Wild3,12,Stage 69 Vintage Electric Piano,230977691
+685,Drums1,1,DRUM to get rid of,130440844
+686,Drums2,2,"Small Drum, Need out of House",211955449
+687,Drums3,3,1975 Drumster Fire *BRAND NEW*,277173229
+688,Guitar1,4,Bender '54 (slight damage),130440844
+689,Guitar2,5,Full Size Lagoon Guitar Bag,211955449
+690,Guitar3,6,Signed Gibby Guitar knob,277173229
+691,Bass1,7,Pro Fish Guitar 2023 ,130440844
+692,Bass2,8,Refurbished Grand Largemouth,211955449
+693,Bass3,9,Used Bass strings (Still in package),277173229
+694,Wild1,10,Pre-Used Uptight Baby Grandfather,130440844
+695,Wild2,11,Beautiful Echenbach Standing Piano,211955449
+696,Wild3,12,Stage 69 Vintage Electric Piano,277173229
+697,Drums1,1,DRUM to get rid of,156529013
+698,Drums2,2,"Small Drum, Need out of House",254346539
+699,Drums3,3,1975 Drumster Fire *BRAND NEW*,332607875
+700,Guitar1,4,Bender '54 (slight damage),156529013
+701,Guitar2,5,Full Size Lagoon Guitar Bag,254346539
+702,Guitar3,6,Signed Gibby Guitar knob,332607875
+703,Bass1,7,Pro Fish Guitar 2023 ,156529013
+704,Bass2,8,Refurbished Grand Largemouth,254346539
+705,Bass3,9,Used Bass strings (Still in package),332607875
+706,Wild1,10,Pre-Used Uptight Baby Grandfather,156529013
+707,Wild2,11,Beautiful Echenbach Standing Piano,254346539
+708,Wild3,12,Stage 69 Vintage Electric Piano,332607875
+709,Drums1,1,DRUM to get rid of,187834816
+710,Drums2,2,"Small Drum, Need out of House",305215847
+711,Drums3,3,1975 Drumster Fire *BRAND NEW*,399129450
+712,Guitar1,4,Bender '54 (slight damage),187834816
+713,Guitar2,5,Full Size Lagoon Guitar Bag,305215847
+714,Guitar3,6,Signed Gibby Guitar knob,399129450
+715,Bass1,7,Pro Fish Guitar 2023 ,187834816
+716,Bass2,8,Refurbished Grand Largemouth,305215847
+717,Bass3,9,Used Bass strings (Still in package),399129450
+718,Wild1,10,Pre-Used Uptight Baby Grandfather,187834816
+719,Wild2,11,Beautiful Echenbach Standing Piano,305215847
+720,Wild3,12,Stage 69 Vintage Electric Piano,399129450
+721,Drums1,1,DRUM to get rid of,225401779
+722,Drums2,2,"Small Drum, Need out of House",366259016
+723,Drums3,3,1975 Drumster Fire *BRAND NEW*,478955340
+724,Guitar1,4,Bender '54 (slight damage),225401779
+725,Guitar2,5,Full Size Lagoon Guitar Bag,366259016
+726,Guitar3,6,Signed Gibby Guitar knob,478955340
+727,Bass1,7,Pro Fish Guitar 2023 ,225401779
+728,Bass2,8,Refurbished Grand Largemouth,366259016
+729,Bass3,9,Used Bass strings (Still in package),478955340
+730,Wild1,10,Pre-Used Uptight Baby Grandfather,225401779
+731,Wild2,11,Beautiful Echenbach Standing Piano,366259016
+732,Wild3,12,Stage 69 Vintage Electric Piano,478955340
+733,Drums1,1,DRUM to get rid of,270482135
+734,Drums2,2,"Small Drum, Need out of House",439510819
+735,Drums3,3,1975 Drumster Fire *BRAND NEW*,574746408
+736,Guitar1,4,Bender '54 (slight damage),270482135
+737,Guitar2,5,Full Size Lagoon Guitar Bag,439510819
+738,Guitar3,6,Signed Gibby Guitar knob,574746408
+739,Bass1,7,Pro Fish Guitar 2023 ,270482135
+740,Bass2,8,Refurbished Grand Largemouth,439510819
+741,Bass3,9,Used Bass strings (Still in package),574746408
+742,Wild1,10,Pre-Used Uptight Baby Grandfather,270482135
+743,Wild2,11,Beautiful Echenbach Standing Piano,439510819
+744,Wild3,12,Stage 69 Vintage Electric Piano,574746408
+745,Drums1,1,DRUM to get rid of,324578562
+746,Drums2,2,"Small Drum, Need out of House",527412983
+747,Drums3,3,1975 Drumster Fire *BRAND NEW*,689695690
+748,Guitar1,4,Bender '54 (slight damage),324578562
+749,Guitar2,5,Full Size Lagoon Guitar Bag,527412983
+750,Guitar3,6,Signed Gibby Guitar knob,689695690
+751,Bass1,7,Pro Fish Guitar 2023 ,324578562
+752,Bass2,8,Refurbished Grand Largemouth,527412983
+753,Bass3,9,Used Bass strings (Still in package),689695690
+754,Wild1,10,Pre-Used Uptight Baby Grandfather,324578562
+755,Wild2,11,Beautiful Echenbach Standing Piano,527412983
+756,Wild3,12,Stage 69 Vintage Electric Piano,689695690
+757,Drums1,1,DRUM to get rid of,389494274
+758,Drums2,2,"Small Drum, Need out of House",632895580
+759,Drums3,3,1975 Drumster Fire *BRAND NEW*,827634828
+760,Guitar1,4,Bender '54 (slight damage),389494274
+761,Guitar2,5,Full Size Lagoon Guitar Bag,632895580
+762,Guitar3,6,Signed Gibby Guitar knob,827634828
+763,Bass1,7,Pro Fish Guitar 2023 ,389494274
+764,Bass2,8,Refurbished Grand Largemouth,632895580
+765,Bass3,9,Used Bass strings (Still in package),827634828
+766,Wild1,10,Pre-Used Uptight Baby Grandfather,389494274
+767,Wild2,11,Beautiful Echenbach Standing Piano,632895580
+768,Wild3,12,Stage 69 Vintage Electric Piano,827634828
+769,Drums1,1,DRUM to get rid of,467393129
+770,Drums2,2,"Small Drum, Need out of House",759474696
+771,Drums3,3,1975 Drumster Fire *BRAND NEW*,993161794
+772,Guitar1,4,Bender '54 (slight damage),467393129
+773,Guitar2,5,Full Size Lagoon Guitar Bag,759474696
+774,Guitar3,6,Signed Gibby Guitar knob,993161794
+775,Bass1,7,Pro Fish Guitar 2023 ,467393129
+776,Bass2,8,Refurbished Grand Largemouth,759474696
+777,Bass3,9,Used Bass strings (Still in package),993161794
+778,Wild1,10,Pre-Used Uptight Baby Grandfather,467393129
+779,Wild2,11,Beautiful Echenbach Standing Piano,759474696
+780,Wild3,12,Stage 69 Vintage Electric Piano,993161794
+781,Drums1,1,DRUM to get rid of,560871755
+782,Drums2,2,"Small Drum, Need out of House",911369635
+783,Drums3,3,1975 Drumster Fire *BRAND NEW*,1191794153
+784,Guitar1,4,Bender '54 (slight damage),560871755
+785,Guitar2,5,Full Size Lagoon Guitar Bag,911369635
+786,Guitar3,6,Signed Gibby Guitar knob,1191794153
+787,Bass1,7,Pro Fish Guitar 2023 ,560871755
+788,Bass2,8,Refurbished Grand Largemouth,911369635
+789,Bass3,9,Used Bass strings (Still in package),1191794153
+790,Wild1,10,Pre-Used Uptight Baby Grandfather,560871755
+791,Wild2,11,Beautiful Echenbach Standing Piano,911369635
+792,Wild3,12,Stage 69 Vintage Electric Piano,1191794153
+793,Drums1,1,DRUM to get rid of,673046106
+794,Drums2,2,"Small Drum, Need out of House",1093643562
+795,Drums3,3,1975 Drumster Fire *BRAND NEW*,1430152984
+796,Guitar1,4,Bender '54 (slight damage),673046106
+797,Guitar2,5,Full Size Lagoon Guitar Bag,1093643562
+798,Guitar3,6,Signed Gibby Guitar knob,1430152984
+799,Bass1,7,Pro Fish Guitar 2023 ,673046106
+800,Bass2,8,Refurbished Grand Largemouth,1093643562
+801,Bass3,9,Used Bass strings (Still in package),1430152984
+802,Wild1,10,Pre-Used Uptight Baby Grandfather,673046106
+803,Wild2,11,Beautiful Echenbach Standing Piano,1093643562
+804,Wild3,12,Stage 69 Vintage Electric Piano,1430152984
+805,Drums1,1,DRUM to get rid of,807655327
+806,Drums2,2,"Small Drum, Need out of House",1312372274
+807,Drums3,3,1975 Drumster Fire *BRAND NEW*,1716183581
+808,Guitar1,4,Bender '54 (slight damage),807655327
+809,Guitar2,5,Full Size Lagoon Guitar Bag,1312372274
+810,Guitar3,6,Signed Gibby Guitar knob,1716183581
+811,Bass1,7,Pro Fish Guitar 2023 ,807655327
+812,Bass2,8,Refurbished Grand Largemouth,1312372274
+813,Bass3,9,Used Bass strings (Still in package),1716183581
+814,Wild1,10,Pre-Used Uptight Baby Grandfather,807655327
+815,Wild2,11,Beautiful Echenbach Standing Piano,1312372274
+816,Wild3,12,Stage 69 Vintage Electric Piano,1716183581
+817,Drums1,1,DRUM to get rid of,969186392
+818,Drums2,2,"Small Drum, Need out of House",1574846729
+819,Drums3,3,1975 Drumster Fire *BRAND NEW*,2059420297
+820,Guitar1,4,Bender '54 (slight damage),969186392
+821,Guitar2,5,Full Size Lagoon Guitar Bag,1574846729
+822,Guitar3,6,Signed Gibby Guitar knob,2059420297
+823,Bass1,7,Pro Fish Guitar 2023 ,969186392
+824,Bass2,8,Refurbished Grand Largemouth,1574846729
+825,Bass3,9,Used Bass strings (Still in package),2059420297
+826,Wild1,10,Pre-Used Uptight Baby Grandfather,969186392
+827,Wild2,11,Beautiful Echenbach Standing Piano,1574846729
+828,Wild3,12,Stage 69 Vintage Electric Piano,2059420297
+829,Drums1,1,DRUM to get rid of,1163023670
+830,Drums2,2,"Small Drum, Need out of House",1889816075
+831,Drums3,3,1975 Drumster Fire *BRAND NEW*,2471304356
+832,Guitar1,4,Bender '54 (slight damage),1163023670
+833,Guitar2,5,Full Size Lagoon Guitar Bag,1889816075
+834,Guitar3,6,Signed Gibby Guitar knob,2471304356
+835,Bass1,7,Pro Fish Guitar 2023 ,1163023670
+836,Bass2,8,Refurbished Grand Largemouth,1889816075
+837,Bass3,9,Used Bass strings (Still in package),2471304356
+838,Wild1,10,Pre-Used Uptight Baby Grandfather,1163023670
+839,Wild2,11,Beautiful Echenbach Standing Piano,1889816075
+840,Wild3,12,Stage 69 Vintage Electric Piano,2471304356
+841,Drums1,1,DRUM to get rid of,1395628404
+842,Drums2,2,"Small Drum, Need out of House",2267779290
+843,Drums3,3,1975 Drumster Fire *BRAND NEW*,2965565227
+844,Guitar1,4,Bender '54 (slight damage),1395628404
+845,Guitar2,5,Full Size Lagoon Guitar Bag,2267779290
+846,Guitar3,6,Signed Gibby Guitar knob,2965565227
+847,Bass1,7,Pro Fish Guitar 2023 ,1395628404
+848,Bass2,8,Refurbished Grand Largemouth,2267779290
+849,Bass3,9,Used Bass strings (Still in package),2965565227
+850,Wild1,10,Pre-Used Uptight Baby Grandfather,1395628404
+851,Wild2,11,Beautiful Echenbach Standing Piano,2267779290
+852,Wild3,12,Stage 69 Vintage Electric Piano,2965565227
+853,Drums1,1,DRUM to get rid of,1674754085
+854,Drums2,2,"Small Drum, Need out of House",2721335148
+855,Drums3,3,1975 Drumster Fire *BRAND NEW*,3558678272
+856,Guitar1,4,Bender '54 (slight damage),1674754085
+857,Guitar2,5,Full Size Lagoon Guitar Bag,2721335148
+858,Guitar3,6,Signed Gibby Guitar knob,3558678272
+859,Bass1,7,Pro Fish Guitar 2023 ,1674754085
+860,Bass2,8,Refurbished Grand Largemouth,2721335148
+861,Bass3,9,Used Bass strings (Still in package),3558678272
+862,Wild1,10,Pre-Used Uptight Baby Grandfather,1674754085
+863,Wild2,11,Beautiful Echenbach Standing Piano,2721335148
+864,Wild3,12,Stage 69 Vintage Electric Piano,3558678272
+865,Drums1,1,DRUM to get rid of,2009704902
+866,Drums2,2,"Small Drum, Need out of House",3265602178
+867,Drums3,3,1975 Drumster Fire *BRAND NEW*,4270413926
+868,Guitar1,4,Bender '54 (slight damage),2009704902
+869,Guitar2,5,Full Size Lagoon Guitar Bag,3265602178
+870,Guitar3,6,Signed Gibby Guitar knob,4270413926
+871,Bass1,7,Pro Fish Guitar 2023 ,2009704902
+872,Bass2,8,Refurbished Grand Largemouth,3265602178
+873,Bass3,9,Used Bass strings (Still in package),4270413926
+874,Wild1,10,Pre-Used Uptight Baby Grandfather,2009704902
+875,Wild2,11,Beautiful Echenbach Standing Piano,3265602178
+876,Wild3,12,Stage 69 Vintage Electric Piano,4270413926
+877,Drums1,1,DRUM to get rid of,2411645882
+878,Drums2,2,"Small Drum, Need out of House",3918722614
+879,Drums3,3,1975 Drumster Fire *BRAND NEW*,5124496711
+880,Guitar1,4,Bender '54 (slight damage),2411645882
+881,Guitar2,5,Full Size Lagoon Guitar Bag,3918722614
+882,Guitar3,6,Signed Gibby Guitar knob,5124496711
+883,Bass1,7,Pro Fish Guitar 2023 ,2411645882
+884,Bass2,8,Refurbished Grand Largemouth,3918722614
+885,Bass3,9,Used Bass strings (Still in package),5124496711
+886,Wild1,10,Pre-Used Uptight Baby Grandfather,2411645882
+887,Wild2,11,Beautiful Echenbach Standing Piano,3918722614
+888,Wild3,12,Stage 69 Vintage Electric Piano,5124496711
+889,Drums1,1,DRUM to get rid of,2893975058
+890,Drums2,2,"Small Drum, Need out of House",4702467137
+891,Drums3,3,1975 Drumster Fire *BRAND NEW*,6149396053
+892,Guitar1,4,Bender '54 (slight damage),2893975058
+893,Guitar2,5,Full Size Lagoon Guitar Bag,4702467137
+894,Guitar3,6,Signed Gibby Guitar knob,6149396053
+895,Bass1,7,Pro Fish Guitar 2023 ,2893975058
+896,Bass2,8,Refurbished Grand Largemouth,4702467137
+897,Bass3,9,Used Bass strings (Still in package),6149396053
+898,Wild1,10,Pre-Used Uptight Baby Grandfather,2893975058
+899,Wild2,11,Beautiful Echenbach Standing Piano,4702467137
+900,Wild3,12,Stage 69 Vintage Electric Piano,6149396053
+901,Drums1,1,DRUM to get rid of,3472770070
+902,Drums2,2,"Small Drum, Need out of House",5642960564
+903,Drums3,3,1975 Drumster Fire *BRAND NEW*,7379275264
+904,Guitar1,4,Bender '54 (slight damage),3472770070
+905,Guitar2,5,Full Size Lagoon Guitar Bag,5642960564
+906,Guitar3,6,Signed Gibby Guitar knob,7379275264
+907,Bass1,7,Pro Fish Guitar 2023 ,3472770070
+908,Bass2,8,Refurbished Grand Largemouth,5642960564
+909,Bass3,9,Used Bass strings (Still in package),7379275264
+910,Wild1,10,Pre-Used Uptight Baby Grandfather,3472770070
+911,Wild2,11,Beautiful Echenbach Standing Piano,5642960564
+912,Wild3,12,Stage 69 Vintage Electric Piano,7379275264
+913,Drums1,1,DRUM to get rid of,4167324084
+914,Drums2,2,"Small Drum, Need out of House",6771552677
+915,Drums3,3,1975 Drumster Fire *BRAND NEW*,8855130317
+916,Guitar1,4,Bender '54 (slight damage),4167324084
+917,Guitar2,5,Full Size Lagoon Guitar Bag,6771552677
+918,Guitar3,6,Signed Gibby Guitar knob,8855130317
+919,Bass1,7,Pro Fish Guitar 2023 ,4167324084
+920,Bass2,8,Refurbished Grand Largemouth,6771552677
+921,Bass3,9,Used Bass strings (Still in package),8855130317
+922,Wild1,10,Pre-Used Uptight Baby Grandfather,4167324084
+923,Wild2,11,Beautiful Echenbach Standing Piano,6771552677
+924,Wild3,12,Stage 69 Vintage Electric Piano,8855130317
+925,Drums1,1,DRUM to get rid of,5000788901
+926,Drums2,2,"Small Drum, Need out of House",8125863212
+927,Drums3,3,1975 Drumster Fire *BRAND NEW*,10626156380
+928,Guitar1,4,Bender '54 (slight damage),5000788901
+929,Guitar2,5,Full Size Lagoon Guitar Bag,8125863212
+930,Guitar3,6,Signed Gibby Guitar knob,10626156380
+931,Bass1,7,Pro Fish Guitar 2023 ,5000788901
+932,Bass2,8,Refurbished Grand Largemouth,8125863212
+933,Bass3,9,Used Bass strings (Still in package),10626156380
+934,Wild1,10,Pre-Used Uptight Baby Grandfather,5000788901
+935,Wild2,11,Beautiful Echenbach Standing Piano,8125863212
+936,Wild3,12,Stage 69 Vintage Electric Piano,10626156380
+937,Drums1,1,DRUM to get rid of,6000946681
+938,Drums2,2,"Small Drum, Need out of House",9751035854
+939,Drums3,3,1975 Drumster Fire *BRAND NEW*,12751387656
+940,Guitar1,4,Bender '54 (slight damage),6000946681
+941,Guitar2,5,Full Size Lagoon Guitar Bag,9751035854
+942,Guitar3,6,Signed Gibby Guitar knob,12751387656
+943,Bass1,7,Pro Fish Guitar 2023 ,6000946681
+944,Bass2,8,Refurbished Grand Largemouth,9751035854
+945,Bass3,9,Used Bass strings (Still in package),12751387656
+946,Wild1,10,Pre-Used Uptight Baby Grandfather,6000946681
+947,Wild2,11,Beautiful Echenbach Standing Piano,9751035854
+948,Wild3,12,Stage 69 Vintage Electric Piano,12751387656
+949,Drums1,1,DRUM to get rid of,7201136017
+950,Drums2,2,"Small Drum, Need out of House",11701243025
+951,Drums3,3,1975 Drumster Fire *BRAND NEW*,15301665187
+952,Guitar1,4,Bender '54 (slight damage),7201136017
+953,Guitar2,5,Full Size Lagoon Guitar Bag,11701243025
+954,Guitar3,6,Signed Gibby Guitar knob,15301665187
+955,Bass1,7,Pro Fish Guitar 2023 ,7201136017
+956,Bass2,8,Refurbished Grand Largemouth,11701243025
+957,Bass3,9,Used Bass strings (Still in package),15301665187
+958,Wild1,10,Pre-Used Uptight Baby Grandfather,7201136017
+959,Wild2,11,Beautiful Echenbach Standing Piano,11701243025
+960,Wild3,12,Stage 69 Vintage Electric Piano,15301665187
+961,Drums1,1,DRUM to get rid of,8641363220
+962,Drums2,2,"Small Drum, Need out of House",14041491630
+963,Drums3,3,1975 Drumster Fire *BRAND NEW*,18361998224
+964,Guitar1,4,Bender '54 (slight damage),8641363220
+965,Guitar2,5,Full Size Lagoon Guitar Bag,14041491630
+966,Guitar3,6,Signed Gibby Guitar knob,18361998224
+967,Bass1,7,Pro Fish Guitar 2023 ,8641363220
+968,Bass2,8,Refurbished Grand Largemouth,14041491630
+969,Bass3,9,Used Bass strings (Still in package),18361998224
+970,Wild1,10,Pre-Used Uptight Baby Grandfather,8641363220
+971,Wild2,11,Beautiful Echenbach Standing Piano,14041491630
+972,Wild3,12,Stage 69 Vintage Electric Piano,18361998224
+973,Drums1,1,DRUM to get rid of,10369635864
+974,Drums2,2,"Small Drum, Need out of House",16849789956
+975,Drums3,3,1975 Drumster Fire *BRAND NEW*,22034397869
+976,Guitar1,4,Bender '54 (slight damage),10369635864
+977,Guitar2,5,Full Size Lagoon Guitar Bag,16849789956
+978,Guitar3,6,Signed Gibby Guitar knob,22034397869
+979,Bass1,7,Pro Fish Guitar 2023 ,10369635864
+980,Bass2,8,Refurbished Grand Largemouth,16849789956
+981,Bass3,9,Used Bass strings (Still in package),22034397869
+982,Wild1,10,Pre-Used Uptight Baby Grandfather,10369635864
+983,Wild2,11,Beautiful Echenbach Standing Piano,16849789956
+984,Wild3,12,Stage 69 Vintage Electric Piano,22034397869
+985,Drums1,1,DRUM to get rid of,12443563037
+986,Drums2,2,"Small Drum, Need out of House",20219747947
+987,Drums3,3,1975 Drumster Fire *BRAND NEW*,26441277443
+988,Guitar1,4,Bender '54 (slight damage),12443563037
+989,Guitar2,5,Full Size Lagoon Guitar Bag,20219747947
+990,Guitar3,6,Signed Gibby Guitar knob,26441277443
+991,Bass1,7,Pro Fish Guitar 2023 ,12443563037
+992,Bass2,8,Refurbished Grand Largemouth,20219747947
+993,Bass3,9,Used Bass strings (Still in package),26441277443
+994,Wild1,10,Pre-Used Uptight Baby Grandfather,12443563037
+995,Wild2,11,Beautiful Echenbach Standing Piano,20219747947
+996,Wild3,12,Stage 69 Vintage Electric Piano,26441277443
